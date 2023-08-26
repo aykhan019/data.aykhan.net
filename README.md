@@ -11,9 +11,9 @@ Welcome to my GitHub repository "data.aykhan.net"! This repository serves as an 
 
 You can access the static data through this API by making HTTP requests to specific endpoints. Here are some of the available endpoints:
 
-- `/data/general/movies.json`: Get information about movies.
-- `/data/general/users.json`: Retrieve user details.
-- `/data/general/theatres.json`: Access event information.
+- `https://data.aykhan.net/data/general/movies.json`: Get information about movies.
+- `https://data.aykhan.net/data/general/users.json`: Retrieve user details.
+- `https://data.aykhan.net/data/general/theatres.json`: Access event information.
 
 Feel free to explore and utilize this data for your projects.
 
