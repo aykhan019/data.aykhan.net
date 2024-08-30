@@ -1,0 +1,82 @@
+[
+    {
+      "Id": "ad01d4f8-e2cf-4be7-a6f9-2b7afa0ac564",
+      "Name": "28 Mall",
+      "Location": "Azadlıq prospekti 45, 28 Mall TM",
+      "Description": "\"CinemaPlus 28 Mall\" kinoteatrı \"28Mall\" ticarət mərkəzinin 5-ci mərtəbəsində yerləşir. Kinoteatr 6 zaldan 885 oturacaq yerindən ibarətdir. \"Platinum Movie Suites\" zalı isə kinoteatrdan unudulmaz təəssürat yaradacaq. Bu premium-zalın konsepsiyası tamaşacılara yüksək komfortlu və arxaya açılan, dəridən dəbdəbəli italyan kreslolarında, kinoseans zamanı yemək və içki sifariş etmək imkanı təklif edir.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/28mall.jpg",
+      "PhoneNumber": "+99412 499 89 88"
+    },
+    {
+      "Id": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+      "Name": "Ganjlik Mall",
+      "Location": "Fətəli Xan Xoyski kuç. 38, Gənclik Mall TM",
+      "Description": "Ölkənin Dolby Atmos texnologiyalı ən böyük \"CinemaPlus\" kinoteatrı \"Gənclik Mall\" Ticarət mərkəzinin 3-cü mərtəbəsində yerləşir. “Dolby Digital Atmos” sayəsində səs tamaşaçıya bütün istiqamətlərdən çatır. Səs müşayiətini kinoteatrın istənilən yerinə yerləşdirmək və yerini dəyişmək imkanı hesabına “Dolby Digital Atmos” film yaradıcılarına kinoda səsi yeni bir mərhələyə çıxarmaq imkan yaradır. Nəticədə tamaşaçı ekranda baş verənləri sadəcə izləmir, hadisənin mərkəzinə daxil olur.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/ganjlik.jpg",
+      "PhoneNumber": "+99412 499 89 88"
+    },
+    {
+      "Id": "d9843f0d-f129-41f4-ba84-0f6d0a96cfaa",
+      "Name": "Dəniz Mall",
+      "Location": "Dəniz Mall ticarət mərkəzi",
+      "Description": "\"Dəniz Mall\" Ticarət Mərkəzi: Möhtəşəm Dolby Atmos Texnologiyalı Kinoteatr Dəniz Mall, ən son texnologiyalar ilə təchiz edilmiş ən böyük \"CinemaPlus\" kinoteatrına sahibdir, bu da sizi tam anlamı ilə təəccübləndirəcək bir səs və görüntü təcrübəsi təmin edir. Kinoteatrın 3-cü mərtəbəsində yerləşən bu gözəl təəssürat yeri, \"Dolby Digital Atmos\" ilə təchiz edilmişdir – bu, səs təcrübəsinin yeni bir dərəcəsini təqdim edir.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/denizmall.jpg",
+      "PhoneNumber": "+99455 2041024"
+    },
+    {
+      "Id": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+      "Name": "Azerbaijan Cinema",
+      "Location": "Məhəmməd Əmin Rəsulzadə küç. Azərbaycan k/t",
+      "Description": "Bir müddət öncə fəaliyyətini dayandırmış əfsanəvi kinoteatr \"CinemaPlus Azerbaijan\" dünya standartlarına cavab verən 2 mərtəbədən, 3 zaldan ve 190 oturacaq yerindən ibarətdir. Yüksək zövqlə layihələndirilmiş VIP zalında tamaşaçılar filmi fərdi masası olan kreslolarda izləmək imkanı əldə edəcəklər və VIP-bar xidmətlərindən istifadə edə biləcəklər.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/azerbaycan.jpg",
+      "PhoneNumber": "+99412 499 89 88"
+    },
+    {
+      "Id": "a6c7b899-9261-4857-ae3f-10bf3a77c8c1",
+      "Name": "Amburan Mall",
+      "Location": "Bilgəh qəsəbəsi, Amburan Mall TM",
+      "Description": "Xəzərin sahilində Bilgəh elit qəsəbəsində, \"Amburan Mall\" ticarət mərkəzinin 1-ci mərtəbəsində \"CinemaPlus Amburan\" premium kinoteatrı yerləşir.\r\nKinoteatr dünya standartlarına cavab verən 3 zaldan və 164 oturacaq yerindən ibarətdir. Zallar rahat və yüksək səviyyəli ispan istehsalı olan kreslolar ilə təchiz olunub. Bununla yanaşı \"CinemaPlus\" Amburan kinoteatrında Master Image 3D texnologiyasından istifade edilir.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/amburan.jpg",
+      "PhoneNumber": "+99412 499 89 88"
+    },
+    {
+      "Id": "bcdcc140-5002-4693-960c-a3284fca98c6",
+      "Name": "Sumqayıt",
+      "Location": "Sumqayıt ş., 2-ci mkr., Nəriman Nərimanov küç.",
+      "Description": "“Nizami” kinoteatrı “CinemaPlus” kinoteatrlar şəbəkəsinə məxsusdur və dünya standartlarına cavab verən 3D texnologiyası ilə təchiz olunmuş 3 zaldan ibarətdir.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/sumgayit.jpg",
+      "PhoneNumber": "+994553005514"
+    },
+    {
+      "Id": "24709fc9-0940-458d-9569-1abbc2afd966",
+      "Name": "Khamsa Park (Ganja)",
+      "Location": "Gəncə ş., Xəmsə Park TM",
+      "Description": "Azərbaycanın ikinci ən böyük şəhəri Gəncədə, \"Khamsa Park\" ticarət mərkəzinin 4-cü mərtəbəsində \"CinemaPlus\" kinoteatrı yerleşir.\r\n\"CinemaPlus Khamsa\" dünya standartlarına cavab verən 5 zaldan və 461 oturacaq yerindən ibarətdir. Zallar avropa istehsalı olan komfortlu və yüksək səviyyəli kreslolar ilə təchiz olunublar.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/khamsa.jpg",
+      "PhoneNumber": "+99412 499 89 88"
+    },
+    {
+      "Id": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+      "Name": "Ganja Mall (Ganja)",
+      "Location": "Gəncə ş. Şah İsmayıl Xətai pr, CinemaPlus",
+      "Description": "“CinemaPlus Gəncə Mall” yüksək parlaqlığa malik olan yeni nəsil “Barco” proyektorları və səs sistemləri ilə təchiz olunub. Kinoteatr 5 zal və 453 oturacaq yerindən ibarətdir. Bundan başqa yenicə istifadəyə verilən kinoteatr GetD texnologiyasını tətbiq edir.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/ganja.jpg",
+      "PhoneNumber": "+994559095397"
+    },
+    {
+      "Id": "3878b117-48de-4688-a54b-55196dd49f37",
+      "Name": "Naxçıvan",
+      "Location": "Abqora restoranının ərazisi",
+      "Description": "\"Naxçıvan Mall\": Ən Yenilikçi Dolby Atmos Texnologiyalı Kinoteatr Təcrübəsi Naxçıvan Mall, təqribi həcmi vəziyyətə uyğun olaraq düzəldilmiş ən böyük \"CinemaPlus\" kinoteatrına ev sahibliyi edir. Bu kinoteatr, sizi müasir kinoteatr təcrübəsinin ən yaxşı vəziyyətinə gətirir, bütün filmlər və təcrübələr üçün ən mükəmməl səs və görüntü təcrübəsi təmin edir. Kinoteatrın 3-cü mərtəbəsində yerləşən bu məkan, \"Dolby Digital Atmos\" texnologiyası ilə təchiz edilib – bu da səs təcrübəsinin tamamilə yeni bir həddini açır.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/naxcivan.jpg",
+      "PhoneNumber": "+994 55 756 66 55"
+    },
+    {
+      "Id": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+      "Name": "Şamaxı",
+      "Location": "Azadlıq prospekti 45, 28 Mall TM",
+      "Description": "Sizi təbiətin qoynunda yerləşən “Open Air Cinema”ya dəvət edirik! Şamaxı şəhəri, Abqora restoranının ərazisi.",
+      "ImageUrl": "https://media.aykhan.net/assets/images/step-it-academy/diploma-project/theatres/samaxi.jpg",
+      "PhoneNumber": "+99412 499 89 88"
+    }
+  ]

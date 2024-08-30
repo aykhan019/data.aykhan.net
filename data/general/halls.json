@@ -1,0 +1,292 @@
+[
+  {
+    "Id": "d1129a83-cb78-4f03-bd0c-e939cddc4142",
+    "TheatreId": "ad01d4f8-e2cf-4be7-a6f9-2b7afa0ac564",
+    "Name": "Allure Assembly"
+  },
+  {
+    "Id": "76210ca1-7641-44ac-8ada-098df1320695",
+    "TheatreId": "ad01d4f8-e2cf-4be7-a6f9-2b7afa0ac564",
+    "Name": "Aurora Atrium"
+  },
+  {
+    "Id": "02d98521-eec8-4f43-aeec-6c9aa2dca0bf",
+    "TheatreId": "ad01d4f8-e2cf-4be7-a6f9-2b7afa0ac564",
+    "Name": "Azure Arcadia"
+  },
+  {
+    "Id": "3cb774a1-fc8c-4a03-ae10-2e4006994a2c",
+    "TheatreId": "ad01d4f8-e2cf-4be7-a6f9-2b7afa0ac564",
+    "Name": "Blossom Ballroom"
+  },
+  {
+    "Id": "4e6198f9-c448-434d-a75e-313503edde8e",
+    "TheatreId": "ad01d4f8-e2cf-4be7-a6f9-2b7afa0ac564",
+    "Name": "Celestial Salon"
+  },
+  {
+    "Id": "d1553c90-f47a-42dd-b8fe-7134adf0fe3e",
+    "TheatreId": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+    "Name": "Crown Jewel Hall"
+  },
+  {
+    "Id": "ea432980-df78-4327-8c6b-4aa8db7d8301",
+    "TheatreId": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+    "Name": "Crystal Cascade"
+  },
+  {
+    "Id": "12ca3d99-9509-4177-81bb-72a7a9910cf7",
+    "TheatreId": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+    "Name": "Crystal Pavilion"
+  },
+  {
+    "Id": "c9c09bc6-5af1-44a8-9627-8cadcd1447e0",
+    "TheatreId": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+    "Name": "Diamond Dunes"
+  },
+  {
+    "Id": "fec37551-d5cf-4314-81ab-606ab98ccf28",
+    "TheatreId": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+    "Name": "Dreamers' Domain"
+  },
+  {
+    "Id": "4dff0193-0f91-47ac-a8d9-b5b8b1183e92",
+    "TheatreId": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+    "Name": "Elegance Emporium"
+  },
+  {
+    "Id": "3af1482a-8e46-41cc-a82a-83589f75b4af",
+    "TheatreId": "bc0fed18-2b75-46af-978e-e33aad82bd71",
+    "Name": "Elysian Eden"
+  },
+  {
+    "Id": "e8b90883-df5b-426d-9426-4865e56e7df0",
+    "TheatreId": "d9843f0d-f129-41f4-ba84-0f6d0a96cfaa",
+    "Name": "Emerald Chamber"
+  },
+  {
+    "Id": "0dce36af-0c16-41dc-8b52-048759124bbd",
+    "TheatreId": "d9843f0d-f129-41f4-ba84-0f6d0a96cfaa",
+    "Name": "Enchanted Echo Hall"
+  },
+  {
+    "Id": "1aa78f95-615c-4431-86b0-919bd9b5e1c0",
+    "TheatreId": "d9843f0d-f129-41f4-ba84-0f6d0a96cfaa",
+    "Name": "Enchanted Elegance"
+  },
+  {
+    "Id": "8b7593de-96ff-4205-a97a-8feb95995690",
+    "TheatreId": "d9843f0d-f129-41f4-ba84-0f6d0a96cfaa",
+    "Name": "Enchanted Hall"
+  },
+  {
+    "Id": "2887ceb0-3e56-4fe5-b5d3-be2e05e6a87b",
+    "TheatreId": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+    "Name": "Ethereal Essence"
+  },
+  {
+    "Id": "b7a0d89b-03c8-43a2-83d8-36a7f00cec1e",
+    "TheatreId": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+    "Name": "Gilded Gardens"
+  },
+  {
+    "Id": "de5ead49-a874-4ffc-bd1c-246be0935234",
+    "TheatreId": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+    "Name": "Golden Gala Hall"
+  },
+  {
+    "Id": "9cc0f1f7-213a-4e4e-a5a1-d46614c57bd3",
+    "TheatreId": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+    "Name": "Golden Gate Hall"
+  },
+  {
+    "Id": "3683e9fe-59af-4286-94de-c3b2a3b7cd08",
+    "TheatreId": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+    "Name": "Graceful Grove"
+  },
+  {
+    "Id": "c884fed3-d8ba-499e-b3d8-2c52e8ab2497",
+    "TheatreId": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+    "Name": "Grand Ballroom"
+  },
+  {
+    "Id": "851a35b9-4253-4374-8691-3d6700c59ce4",
+    "TheatreId": "71d9027c-cce3-4096-9a5f-55eeb899321c",
+    "Name": "Harmony Haven"
+  },
+  {
+    "Id": "dc9c4c32-72ce-4391-b71a-9b1ec604e667",
+    "TheatreId": "a6c7b899-9261-4857-ae3f-10bf3a77c8c1",
+    "Name": "Imperial Plaza"
+  },
+  {
+    "Id": "90030a7b-4a5c-48bb-8735-523739097a91",
+    "TheatreId": "a6c7b899-9261-4857-ae3f-10bf3a77c8c1",
+    "Name": "Ivory Isle"
+  },
+  {
+    "Id": "96456f43-1af4-4e93-abfc-2d23dce50c1f",
+    "TheatreId": "a6c7b899-9261-4857-ae3f-10bf3a77c8c1",
+    "Name": "Majestic Manor"
+  },
+  {
+    "Id": "2dc32c79-cf85-40f6-9afd-4b6db4d900f1",
+    "TheatreId": "bcdcc140-5002-4693-960c-a3284fca98c6",
+    "Name": "Midnight Mirage"
+  },
+  {
+    "Id": "58ead68a-2ef5-4dd9-89fa-484ab2adf50e",
+    "TheatreId": "bcdcc140-5002-4693-960c-a3284fca98c6",
+    "Name": "Mirage Meadows"
+  },
+  {
+    "Id": "941ca969-1183-497a-b811-ad001f95dfa3",
+    "TheatreId": "bcdcc140-5002-4693-960c-a3284fca98c6",
+    "Name": "Moonlit Mirage"
+  },
+  {
+    "Id": "ae1bf47c-c312-469b-a167-7d8461f8a307",
+    "TheatreId": "bcdcc140-5002-4693-960c-a3284fca98c6",
+    "Name": "Moonstone Mansion"
+  },
+  {
+    "Id": "b091fbd1-b0f5-4994-be81-9bb94ab396ad",
+    "TheatreId": "bcdcc140-5002-4693-960c-a3284fca98c6",
+    "Name": "Oasis Occasion"
+  },
+  {
+    "Id": "827d4001-4926-4ef9-ae43-5883f4ea8e90",
+    "TheatreId": "24709fc9-0940-458d-9569-1abbc2afd966",
+    "Name": "Opal Oasis"
+  },
+  {
+    "Id": "fa188c84-342e-4b26-83c8-ff8ad37808d2",
+    "TheatreId": "24709fc9-0940-458d-9569-1abbc2afd966",
+    "Name": "Opulent Outpost"
+  },
+  {
+    "Id": "4375998d-ad19-458e-9234-8e0a17079c35",
+    "TheatreId": "24709fc9-0940-458d-9569-1abbc2afd966",
+    "Name": "Pearl Plaza"
+  },
+  {
+    "Id": "8f363aaf-1551-473a-95ff-7bac48c9eac9",
+    "TheatreId": "24709fc9-0940-458d-9569-1abbc2afd966",
+    "Name": "Pearl Promenade"
+  },
+  {
+    "Id": "693932bd-f9dd-460b-9fdb-22dd509333e4",
+    "TheatreId": "24709fc9-0940-458d-9569-1abbc2afd966",
+    "Name": "Radiance Hall"
+  },
+  {
+    "Id": "66bd671e-ba7b-4d72-8d2b-26212fae0e75",
+    "TheatreId": "24709fc9-0940-458d-9569-1abbc2afd966",
+    "Name": "Radiant Gardens"
+  },
+  {
+    "Id": "13a71392-4d42-4993-a8d7-146529687680",
+    "TheatreId": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+    "Name": "Reflections Retreat"
+  },
+  {
+    "Id": "2f35f9c3-473d-46c1-a60b-da480e018cd3",
+    "TheatreId": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+    "Name": "Regal Haven"
+  },
+  {
+    "Id": "afa908bc-8301-4715-b24e-ad3571e8a47c",
+    "TheatreId": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+    "Name": "Regal Palace"
+  },
+  {
+    "Id": "e9869108-67f7-436e-b132-2bdb780f8c08",
+    "TheatreId": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+    "Name": "Renaissance Hall"
+  },
+  {
+    "Id": "9af51b95-3b3c-4b36-9a63-2781cbfd2ece",
+    "TheatreId": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+    "Name": "Royal Reflections"
+  },
+  {
+    "Id": "f4ffb7c3-ac36-43b1-8b4e-5cadede7838a",
+    "TheatreId": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+    "Name": "Royal Ridge Hall"
+  },
+  {
+    "Id": "9cabb9f9-050b-440e-a80b-6f13fe68ad58",
+    "TheatreId": "4bae2289-8eab-47c0-ad39-9414ef47bce8",
+    "Name": "Sapphire Hall"
+  },
+  {
+    "Id": "eca2bbc3-c2d5-4a83-ac3c-b1952cb1fa45",
+    "TheatreId": "3878b117-48de-4688-a54b-55196dd49f37",
+    "Name": "Sapphire Springs"
+  },
+  {
+    "Id": "96e0929e-f717-477b-91b8-71ab05647de0",
+    "TheatreId": "3878b117-48de-4688-a54b-55196dd49f37",
+    "Name": "Serenity Sanctuary"
+  },
+  {
+    "Id": "7e200350-0ee3-4056-b952-6c4c0c199ef0",
+    "TheatreId": "3878b117-48de-4688-a54b-55196dd49f37",
+    "Name": "Silver Lining Hall"
+  },
+  {
+    "Id": "a3f83b5b-f8da-4ca6-aee6-d97213b79006",
+    "TheatreId": "3878b117-48de-4688-a54b-55196dd49f37",
+    "Name": "Starlight Auditorium"
+  },
+  {
+    "Id": "191b784c-1140-4bb2-9339-e6a8254bcd7c",
+    "TheatreId": "3878b117-48de-4688-a54b-55196dd49f37",
+    "Name": "Starry Skies Pavilion"
+  },
+  {
+    "Id": "d9eaa932-aadc-4541-814c-a93e8915dc9b",
+    "TheatreId": "3878b117-48de-4688-a54b-55196dd49f37",
+    "Name": "Tranquil Terrace"
+  },
+  {
+    "Id": "de1d5267-d99e-4af1-a6c9-3fc35aaba779",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Tranquility Hall"
+  },
+  {
+    "Id": "e5ff672d-459e-41c5-8c93-6cc278eb3ccf",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Twilight Terrace"
+  },
+  {
+    "Id": "46a0cce0-866d-4223-878a-1617a417aeff",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Velvet Vista"
+  },
+  {
+    "Id": "aae6fd58-20d8-4c63-b6f7-d45c13636bc5",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Velvet Vortex"
+  },
+  {
+    "Id": "8e29de7b-909b-4a2d-b06a-5b3e473c6e32",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Victorian Veranda"
+  },
+  {
+    "Id": "a8445d8a-2721-468c-ae99-a24583d67547",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Vintage Vault"
+  },
+  {
+    "Id": "4400d93c-4f93-4eab-889a-a9143e531879",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Whispering Pines Hall"
+  },
+  {
+    "Id": "02dfb878-4e0f-4f45-acec-edc5382bfdf5",
+    "TheatreId": "eae690b3-ff2a-4fe5-9cb9-67a369170db0",
+    "Name": "Whispering Willow Hall"
+  }
+]
