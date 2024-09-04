@@ -1,0 +1,47 @@
+{
+    "ibm-ai-engineering-courses": [
+      {
+        "id": 1,
+        "title": "Machine Learning with Python",
+        "description": "Notes from the Machine Learning with Python course on Coursera.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/machine-learning-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/machine-learning-with-python"
+      },
+      {
+        "id": 2,
+        "title": "Introduction to Deep Learning & Neural Networks with Keras",
+        "description": "Notes from the Introduction to Deep Learning & Neural Networks with Keras course on Coursera.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras"
+      },
+      {
+        "id": 3,
+        "title": "Introduction to Computer Vision & Image Processing",
+        "description": "Notes from the Introduction to Computer Vision & Image Processing course on Coursera.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing"
+      },
+      {
+        "id": 4,
+        "title": "Deep Neural Networks with PyTorch",
+        "description": "Notes from the Deep Neural Networks with PyTorch course on Coursera.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch"
+      },
+      {
+        "id": 5,
+        "title": "Building Deep Learning Models with TensorFlow",
+        "description": "Notes from the Building Deep Learning Models with TensorFlow course on Coursera.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/building-deep-learning-models-with-tensorflow.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow"
+      },
+      {
+        "id": 6,
+        "title": "AI Capstone Project with Deep Learning",
+        "description": "Notes from the AI Capstone Project with Deep Learning course on Coursera.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/ai-capstone-project-with-deep-learning.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/ai-capstone-project-with-deep-learning"
+      }
+    ]
+  }
+  
