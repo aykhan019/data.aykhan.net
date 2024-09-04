@@ -1,0 +1,19 @@
+{
+    "achievements": [
+      {
+        "id": 1,
+        "title": "Certificates",
+        "description": "View my certificates for completed courses and programs.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/achievements/certificates.png",
+        "linkUrl": "https://aykhan.net/achievements/certificates"
+      },
+      {
+        "id": 2,
+        "title": "Badges",
+        "description": "Explore the badges I have earned for various accomplishments.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/achievements/badges.png",
+        "linkUrl": "https://aykhan.net/achievements/badges"
+      }
+    ]
+  }
+  
