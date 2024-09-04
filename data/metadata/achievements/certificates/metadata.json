@@ -5,21 +5,21 @@
             "title": "Data Analysis with Python Certificate",
             "description": "Certificate for completing the Data Analysis with Python course.",
             "imageUrl": "https://media.aykhan.net/achievements/certificates/png/data-analysis-with-python-certificate.png",
-            "linkUrl": "https://aykhan.net/achievements/certificates/pdf/data-analysis-with-python-certificate.pdf"
+            "linkUrl": "https://media.aykhan.net/achievements/certificates/pdf/data-analysis-with-python-certificate.pdf"
         },
         {
             "id": 2,
             "title": "Machine Learning with Python Certificate",
             "description": "Certificate for completing the Machine Learning with Python course.",
             "imageUrl": "https://media.aykhan.net/achievements/certificates/png/machine-learning-with-python-certificate.png",
-            "linkUrl": "https://aykhan.net/achievements/certificates/pdf/machine-learning-with-python-certificate.pdf"
+            "linkUrl": "https://media.aykhan.net/achievements/certificates/pdf/machine-learning-with-python-certificate.pdf"
         },
         {
             "id": 3,
             "title": "Deep Learning Essentials with Keras Certificate",
             "description": "Certificate for completing the Deep Learning Essentials with Keras course.",
             "imageUrl": "https://media.aykhan.net/achievements/certificates/png/deep-learning-essentials-with-keras-certificate.png",
-            "linkUrl": "https://aykhan.net/achievements/certificates/pdf/deep-learning-essentials-with-keras-certificate.pdf"
+            "linkUrl": "https://media.aykhan.net/achievements/certificates/pdf/deep-learning-essentials-with-keras-certificate.pdf"
         }
     ]
 }

@@ -5,21 +5,21 @@
             "title": "Data Analysis with Python Badge",
             "description": "Badge earned for completing the Data Analysis with Python course.",
             "imageUrl": "https://media.aykhan.net/achievements/badges/png/data-analysis-with-python-badge.png",
-            "linkUrl": "https://aykhan.net/achievements/badges/pdf/data-analysis-with-python-badge.pdf"
+            "linkUrl": "https://media.aykhan.net/achievements/badges/pdf/data-analysis-with-python-badge.pdf"
         },
         {
             "id": 2,
             "title": "Machine Learning with Python Badge",
             "description": "Badge earned for completing the Machine Learning with Python course.",
             "imageUrl": "https://media.aykhan.net/achievements/badges/png/machine-learning-with-python-badge.png",
-            "linkUrl": "https://aykhan.net/achievements/badges/pdf/machine-learning-with-python-badge.pdf"
+            "linkUrl": "https://media.aykhan.net/achievements/badges/pdf/machine-learning-with-python-badge.pdf"
         },
         {
             "id": 3,
             "title": "Deep Learning Essentials with Keras Badge",
             "description": "Badge earned for completing the Deep Learning Essentials with Keras course.",
             "imageUrl": "https://media.aykhan.net/achievements/badges/png/deep-learning-essentials-with-keras-badge.png",
-            "linkUrl": "https://aykhan.net/achievements/badges/pdf/deep-learning-essentials-with-keras-badge.pdf"
+            "linkUrl": "https://media.aykhan.net/achievements/badges/pdf/deep-learning-essentials-with-keras-badge.pdf"
         }
     ]
 }
