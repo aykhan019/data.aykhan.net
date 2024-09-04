@@ -1,0 +1,19 @@
+{
+    "notes": [
+      {
+        "id": 1,
+        "title": "Coursera",
+        "description": "Collection of notes from Coursera courses.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/coursera.jpg",
+        "linkUrl": "https://aykhan.net/notion/coursera"
+      },
+      {
+        "id": 2,
+        "title": "Koç University",
+        "description": "Collection of notes from Koç University courses.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/koc/thumbnail.png",
+        "linkUrl": "https://aykhan.net/notion/koc"
+      }
+    ]
+  }
+  

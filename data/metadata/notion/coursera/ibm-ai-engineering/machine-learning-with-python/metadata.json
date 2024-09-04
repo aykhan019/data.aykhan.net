@@ -1,0 +1,47 @@
+{
+    "machine-learning-with-python-modules": [
+      {
+        "id": 1,
+        "title": "Introduction to Machine Learning",
+        "description": "Introduction to Machine Learning module details.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/machine-learning-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/machine-learning-with-python/module-1"
+      },
+      {
+        "id": 2,
+        "title": "Regression",
+        "description": "Module covering regression techniques.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/machine-learning-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/machine-learning-with-python/module-2"
+      },
+      {
+        "id": 3,
+        "title": "Classification",
+        "description": "Module covering classification techniques.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/machine-learning-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/machine-learning-with-python/module-3"
+      },
+      {
+        "id": 4,
+        "title": "Linear Classification",
+        "description": "Module focusing on linear classification methods.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/machine-learning-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/machine-learning-with-python/module-4"
+      },
+      {
+        "id": 5,
+        "title": "Clustering",
+        "description": "Module covering clustering techniques.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/machine-learning-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/machine-learning-with-python/module-5"
+      },
+      {
+        "id": 6,
+        "title": "Final Exam and Project",
+        "description": "Details about the final exam and project.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/machine-learning-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/machine-learning-with-python/module-6"
+      }
+    ]
+  }
+  

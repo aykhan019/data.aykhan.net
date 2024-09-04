@@ -1,0 +1,33 @@
+{
+    "koc-years": [
+      {
+        "id": 1,
+        "title": "2023-24",
+        "description": "Notes from my first year at Koç University (2023-2024).",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/koc/thumbnail.png",
+        "linkUrl": "https://aykhan.net/notion/koc/2023-24/"
+      },
+      {
+        "id": 2,
+        "title": "2024-25",
+        "description": "Detailed notes from my second year at Koç University (2024-2025).",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/koc/thumbnail.png",
+        "linkUrl": "https://aykhan.net/notion/koc/2024-25/"
+      },
+      {
+        "id": 3,
+        "title": "2025-26",
+        "description": "In-depth notes from my third year at Koç University (2025-2026).",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/koc/thumbnail.png",
+        "linkUrl": "https://aykhan.net/notion/koc/2025-26/"
+      },
+      {
+        "id": 4,
+        "title": "2026-27",
+        "description": "Notes from my fourth year at Koç University (2026-2027).",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/koc/thumbnail.png",
+        "linkUrl": "https://aykhan.net/notion/koc/2026-27/"
+      }
+    ]
+  }
+  

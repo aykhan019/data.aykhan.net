@@ -1,0 +1,40 @@
+{
+    "data-analysis-with-python-modules": [
+      {
+        "id": 1,
+        "title": "Importing Data Sets",
+        "description": "Details about importing data sets for analysis.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python/module-1"
+      },
+      {
+        "id": 2,
+        "title": "Data Wrangling",
+        "description": "Techniques for cleaning and organizing data.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python/module-2"
+      },
+      {
+        "id": 3,
+        "title": "Exploratory Data Analysis",
+        "description": "Methods for exploring and understanding data.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python/module-3"
+      },
+      {
+        "id": 4,
+        "title": "Model Development",
+        "description": "Processes for developing data models.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python/module-4"
+      },
+      {
+        "id": 5,
+        "title": "Model Evaluation and Refinement",
+        "description": "Techniques for evaluating and refining data models.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python/module-5"
+      }
+    ]
+  }
+  

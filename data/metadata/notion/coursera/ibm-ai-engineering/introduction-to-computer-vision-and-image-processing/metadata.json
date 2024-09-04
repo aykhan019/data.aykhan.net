@@ -1,0 +1,47 @@
+{
+    "introduction-to-computer-vision-and-image-processing-modules": [
+      {
+        "id": 1,
+        "title": "Introduction to Computer Vision",
+        "description": "Introduction to Computer Vision module details.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/module-1"
+      },
+      {
+        "id": 2,
+        "title": "Image Processing with OpenCV and Pillow",
+        "description": "Module on image processing with OpenCV and Pillow.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/module-2"
+      },
+      {
+        "id": 3,
+        "title": "Machine Learning Image Classification",
+        "description": "Module covering machine learning image classification.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/module-3"
+      },
+      {
+        "id": 4,
+        "title": "Neural Networks and Deep Learning for Image Classification",
+        "description": "Module on neural networks and deep learning for image classification.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/module-4"
+      },
+      {
+        "id": 5,
+        "title": "Object Detection",
+        "description": "Module covering object detection techniques.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/module-5"
+      },
+      {
+        "id": 6,
+        "title": "Traffic Sign Classification",
+        "description": "Module on traffic sign classification.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/traffic-sign-classification.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/module-6"
+      }
+    ]
+  }
+  

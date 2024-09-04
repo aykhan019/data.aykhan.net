@@ -1,0 +1,40 @@
+{
+    "introduction-to-deep-learning-and-neural-networks-with-keras-modules": [
+      {
+        "id": 1,
+        "title": "Introduction to Neural Networks and Deep Learning",
+        "description": "Introduction to Neural Networks and Deep Learning module details.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/module-1"
+      },
+      {
+        "id": 2,
+        "title": "Artificial Neural Networks",
+        "description": "Module covering artificial neural networks.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/module-2"
+      },
+      {
+        "id": 3,
+        "title": "Keras and Deep Learning Libraries",
+        "description": "Module on Keras and deep learning libraries.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/module-3"
+      },
+      {
+        "id": 4,
+        "title": "Deep Learning Models",
+        "description": "Module covering deep learning models.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/module-4"
+      },
+      {
+        "id": 5,
+        "title": "Object Detection and Summary",
+        "description": "Module on object detection and summary.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/module-5"
+      }
+    ]
+  }
+  

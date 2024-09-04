@@ -1,0 +1,40 @@
+{
+    "building-deep-learning-models-with-tensorflow-modules": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "description": "Introduction to deep learning models with TensorFlow.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/building-deep-learning-models-with-tensorflow.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/module-1"
+      },
+      {
+        "id": 2,
+        "title": "Supervised Learning Models",
+        "description": "Module on supervised learning models.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/building-deep-learning-models-with-tensorflow.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/module-2"
+      },
+      {
+        "id": 3,
+        "title": "Supervised Learning Models (Cont'd)",
+        "description": "Continuation of supervised learning models.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/building-deep-learning-models-with-tensorflow.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/module-3"
+      },
+      {
+        "id": 4,
+        "title": "Unsupervised Deep Learning Models",
+        "description": "Module on unsupervised deep learning models.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/building-deep-learning-models-with-tensorflow.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/module-4"
+      },
+      {
+        "id": 5,
+        "title": "Unsupervised Deep Learning Models (Cont'd) and Scaling",
+        "description": "Continuation of unsupervised deep learning models and scaling.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/building-deep-learning-models-with-tensorflow.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/module-5"
+      }
+    ]
+  }
+  

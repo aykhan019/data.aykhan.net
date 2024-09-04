@@ -1,0 +1,75 @@
+{
+    "deep-neural-networks-with-pytorch-modules": [
+      {
+        "id": 1,
+        "title": "Tensor and Datasets",
+        "description": "Module covering tensors and datasets.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-1"
+      },
+      {
+        "id": 2,
+        "title": "Linear Regression",
+        "description": "Module on linear regression.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-2"
+      },
+      {
+        "id": 3,
+        "title": "Linear Regression PyTorch Way",
+        "description": "Module on linear regression with PyTorch.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-3"
+      },
+      {
+        "id": 4,
+        "title": "Multiple Input Output Linear Regression",
+        "description": "Module covering multiple input-output linear regression.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-4"
+      },
+      {
+        "id": 5,
+        "title": "Logistic Regression for Classification",
+        "description": "Module on logistic regression for classification.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-5"
+      },
+      {
+        "id": 6,
+        "title": "Softmax Regression",
+        "description": "Module covering softmax regression.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-6"
+      },
+      {
+        "id": 7,
+        "title": "Shallow Neural Networks",
+        "description": "Module on shallow neural networks.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-7"
+      },
+      {
+        "id": 8,
+        "title": "Deep Networks",
+        "description": "Module covering deep networks.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-8"
+      },
+      {
+        "id": 9,
+        "title": "Convolutional Neural Network",
+        "description": "Module on convolutional neural networks.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-9"
+      },
+      {
+        "id": 10,
+        "title": "Peer Review",
+        "description": "Module covering peer review.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-ai-engineering/deep-neural-networks-with-pytorch.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/module-10"
+      }
+    ]
+  }
+  

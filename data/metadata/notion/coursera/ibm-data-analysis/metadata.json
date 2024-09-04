@@ -1,0 +1,12 @@
+{
+    "ibm-data-science-courses": [
+      {
+        "id": 1,
+        "title": "Data Analysis with Python",
+        "description": "Notes from the Data Analysis with Python course on Coursera.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python"
+      }
+    ]
+  }
+  

@@ -1,0 +1,18 @@
+{
+  "coursera-specializations": [
+    {
+      "id": 1,
+      "title": "IBM AI Engineering",
+      "description": "Notes from IBM AI Engineering courses on Coursera.",
+      "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-v1.png",
+      "linkUrl": "https://aykhan.net/notion/coursera/ibm-ai-engineering"
+    },
+    {
+      "id": 2,
+      "title": "IBM Data Science",
+      "description": "Notes from IBM Data Science courses on Coursera.",
+      "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-v1.png",
+      "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis"
+    }
+  ]
+}
