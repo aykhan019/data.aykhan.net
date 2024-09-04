@@ -1,0 +1,19 @@
+{
+    "institutions": [
+      {
+        "id": 1,
+        "title": "Step IT Academy",
+        "description": "Discover my programming journey at this educational platform",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/thumbnail.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy"
+      },
+      {
+        "id": 2,
+        "title": "Koç University",
+        "description": "Explore my tasks at this prestigious Turkish institution",
+        "imageUrl": "https://media.aykhan.net/thumbnails/koc/thumbnail.png",
+        "linkUrl": "https://aykhan.net/tasks/koc"
+      }
+    ]
+  }
+  

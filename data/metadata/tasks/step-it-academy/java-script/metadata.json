@@ -1,0 +1,95 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Java Script Task 1",
+            "description": "Simple Calculator using JS",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task1"
+        },
+        {
+            "id": 2,
+            "title": "Java Script Task 2",
+            "description": "Memory Game using JS",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task2"
+        },
+        {
+            "id": 3,
+            "title": "Java Script Task 3",
+            "description": "2D Football Game using JS",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task3"
+        },
+        {
+            "id": 4,
+            "title": "Java Script Task 4",
+            "description": "Java Script Custom Slider",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task4"
+        },
+        {
+            "id": 5,
+            "title": "Java Script Task 5",
+            "description": "Take Notes in Calendar. Save Notes using Cookies",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task5"
+        },
+        {
+            "id": 6,
+            "title": "Java Script Task 6",
+            "description": "Game Agar.io. Eat foods to get bigger",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task6"
+        },
+        {
+            "id": 7,
+            "title": "Java Script Task 7",
+            "description": "Cinema Website Template using API",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task7"
+        },
+        {
+            "id": 8,
+            "title": "Java Script Task 8",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task8"
+        },
+        {
+            "id": 9,
+            "title": "Java Script Task 9",
+            "description": "Sign Up, Log In form using jQuery",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task9.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task9"
+        },
+        {
+            "id": 10,
+            "title": "Java Script Task 10",
+            "description": "No Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task10.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task10"
+        },
+        {
+            "id": 11,
+            "title": "Java Script Task 11",
+            "description": "Website Header builder using jQuery",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task11.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task11"
+        },
+        {
+            "id": 12,
+            "title": "Java Script Task 12",
+            "description": "No Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task12.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task12"
+        },
+        {
+            "id": 13,
+            "title": "Java Script Task 13",
+            "description": "Sign In To See Movies",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/java-script/task13.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/java-script/task13"
+        }
+    ]
+}

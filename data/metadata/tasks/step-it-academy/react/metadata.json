@@ -1,0 +1,116 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "React - Task 1",
+            "description": "Custom React Website",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task1"
+        },
+        {
+            "id": 2,
+            "title": "React - Task 2",
+            "description": "Task using React Props",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task2"
+        },
+        {
+            "id": 3,
+            "title": "React - Task 3",
+            "description": "Products Shop in React",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task3"
+        },
+        {
+            "id": 4,
+            "title": "React - Task 4",
+            "description": "React Product Editor",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task4"
+        },
+        {
+            "id": 5,
+            "title": "React - Task 5",
+            "description": "No Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task5"
+        },
+        {
+            "id": 6,
+            "title": "React - Task 6",
+            "description": "React Cars Task (RH Car Dealership)",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task6"
+        },
+        {
+            "id": 7,
+            "title": "React - Task 7",
+            "description": "BestOil Gas Filling Station",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task7"
+        },
+        {
+            "id": 8,
+            "title": "React - Task 8",
+            "description": "No Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task8"
+        },
+        {
+            "id": 9,
+            "title": "React - Task 9",
+            "description": "No Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task9.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task9"
+        },
+        {
+            "id": 10,
+            "title": "React - Task 10",
+            "description": "React Quizzes Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task10.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task10"
+        },
+        {
+            "id": 11,
+            "title": "React - Task 11",
+            "description": "React: useContext and Axios integration",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task11.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task11"
+        },
+        {
+            "id": 12,
+            "title": "React - Task 12",
+            "description": "React Quizzes Task using Class Components",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task12.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task12"
+        },
+        {
+            "id": 13,
+            "title": "React - Task 13",
+            "description": "Exam Project - KhanLibrary",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task13.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task13"
+        },
+        {
+            "id": 14,
+            "title": "React - Task 14",
+            "description": "No Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task14.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task14"
+        },
+        {
+            "id": 15,
+            "title": "React - Task 15",
+            "description": "Exam Project - KhanLibrary",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task15.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task15"
+        },
+        {
+            "id": 16,
+            "title": "React - Task 16",
+            "description": "No Task",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task16.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/react/task16"
+        }
+    ]
+}

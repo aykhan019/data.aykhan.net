@@ -1,0 +1,214 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "ASP.NET Task 1",
+            "description": "Yummy Restaruant Template",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task1"
+        },
+        {
+            "id": 2,
+            "title": "ASP.NET Task 2",
+            "description": "Custom Users Manager",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task2"
+        },
+        {
+            "id": 3,
+            "title": "ASP.NET Task 3",
+            "description": "Khanstore Website Template",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task3"
+        },
+        {
+            "id": 4,
+            "title": "ASP.NET Task 4",
+            "description": "Products Management System With Database",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task4"
+        },
+        {
+            "id": 5,
+            "title": "ASP.NET Task 5",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task5"
+        },
+        {
+            "id": 6,
+            "title": "ASP.NET Task 6",
+            "description": "Products Management System With Database",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task6"
+        },
+        {
+            "id": 7,
+            "title": "ASP.NET Task 7",
+            "description": "Products Management System With Database",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task7"
+        },
+        {
+            "id": 8,
+            "title": "ASP.NET Task 8",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task8"
+        },
+        {
+            "id": 9,
+            "title": "ASP.NET Task 9",
+            "description": "Products Management System With Database",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task9.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task9"
+        },
+        {
+            "id": 10,
+            "title": "ASP.NET Task 10",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task10.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task10"
+        },
+        {
+            "id": 11,
+            "title": "ASP.NET Task 11",
+            "description": "Task using WEB API",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task11.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task11"
+        },
+        {
+            "id": 12,
+            "title": "ASP.NET Task 12",
+            "description": "Task using WEB API",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task12.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task12"
+        },
+        {
+            "id": 13,
+            "title": "ASP.NET Task 13",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task13.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task13"
+        },
+        {
+            "id": 14,
+            "title": "ASP.NET Task 14",
+            "description": "Task using WEB API",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task14.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task14"
+        },
+        {
+            "id": 15,
+            "title": "ASP.NET Task 15",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task15.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task15"
+        },
+        {
+            "id": 16,
+            "title": "ASP.NET Task 16",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task16.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task16"
+        },
+        {
+            "id": 17,
+            "title": "ASP.NET Task 17",
+            "description": "Task using WEB API",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task17.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task17"
+        },
+        {
+            "id": 18,
+            "title": "ASP.NET Task 18",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task18.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task18"
+        },
+        {
+            "id": 19,
+            "title": "ASP.NET Task 19",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task19.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task19"
+        },
+        {
+            "id": 20,
+            "title": "ASP.NET Task 20",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task20.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task20"
+        },
+        {
+            "id": 21,
+            "title": "ASP.NET Task 21",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task21.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task21"
+        },
+        {
+            "id": 22,
+            "title": "ASP.NET Task 22",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task22.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task22"
+        },
+        {
+            "id": 23,
+            "title": "ASP.NET Task 23",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task23.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task23"
+        },
+        {
+            "id": 24,
+            "title": "ASP.NET Task 24",
+            "description": "No Task Assigned",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task24.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task24"
+        },
+        {
+            "id": 25,
+            "title": "ASP.NET Task 25",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task25.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task25"
+        },
+        {
+            "id": 26,
+            "title": "ASP.NET Task 26",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task26.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task26"
+        },
+        {
+            "id": 27,
+            "title": "ASP.NET Task 27",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task27.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task27"
+        },
+        {
+            "id": 28,
+            "title": "ASP.NET Task 28",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task28.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task28"
+        },
+        {
+            "id": 29,
+            "title": "ASP.NET Task 29",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task29.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task29"
+        },
+        {
+            "id": 30,
+            "title": "ASP.NET Task 30",
+            "description": "ASP.NET - Exam Project - Zust",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/asp-net/task30.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/asp-net/task30"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Web Programming Task 1",
+        "description": "Phones with informative screens",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task1.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task1"
+      },
+      {
+        "id": 2,
+        "title": "Web Programming Task 2",
+        "description": "Manage personal informations, tasks, and meetings",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task2.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task2"
+      },
+      {
+        "id": 3,
+        "title": "Web Programming Task 3",
+        "description": "HTML5 Learning and Exercise Website",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task3.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task3"
+      },
+      {
+        "id": 4,
+        "title": "Web Programming Task 4",
+        "description": "Onepage MultiPurpose Website Template",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task4.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task4"
+      },
+      {
+        "id": 5,
+        "title": "Web Programming Task 5",
+        "description": "Menu and contact information for Brunch restaurant",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task5.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task5"
+      },
+      {
+        "id": 6,
+        "title": "Web Programming Task 6",
+        "description": "Restaruant template for Food Finda restaruant",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task6.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task6"
+      },
+      {
+        "id": 7,
+        "title": "Web Programming Task 7",
+        "description": "7 Registration form templates",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task7.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task7"
+      },
+      {
+        "id": 8,
+        "title": "Web Programming Task 8",
+        "description": "E-portfolio created using Bootstrap",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task8.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task8"
+      },
+      {
+        "id": 9,
+        "title": "Web Programming Task 9",
+        "description": "Studio website template using Bootstrap",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task9.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task9"
+      },
+      {
+        "id": 10,
+        "title": "Web Programming Task 10",
+        "description": "Website template created using SASS",
+        "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming/task10.png",
+        "linkUrl": "https://aykhan.net/tasks/step-it-academy/web-programming/task10"
+      }
+    ]
+  }
+  

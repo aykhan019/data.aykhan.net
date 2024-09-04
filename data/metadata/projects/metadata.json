@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Zust",
+            "description": "Social Media Website",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/zust.png",
+            "linkUrl": "https://aykhan.net/projects/zust"
+        },
+        {
+            "id": 2,
+            "title": "KhanChess",
+            "description": "Playing a chess game against a chess bot that chooses moves randomly.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/khanchess.png",
+            "linkUrl": "https://aykhan.net/projects/khanchess"
+        },
+        {
+            "id": 3,
+            "title": "KhanLibrary",
+            "description": "Library App in React",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/khanlibrary.png",
+            "linkUrl": "https://aykhan.net/projects/khanlibrary"
+        },
+        {
+            "id": 4,
+            "title": "Calculation Practise",
+            "description": "Website to Practise Calculation",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/calculation-practise.png",
+            "linkUrl": "https://aykhan.net/projects/calculation-practise"
+        }
+    ]
+}
