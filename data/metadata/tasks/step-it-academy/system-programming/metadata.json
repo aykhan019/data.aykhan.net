@@ -1,0 +1,53 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "System Programming Task 1",
+            "description": "Introduction to system programming concepts.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/system-programming/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/system-programming/task1"
+        },
+        {
+            "id": 2,
+            "title": "System Programming Task 2",
+            "description": "Working with threads in system programming.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/system-programming/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/system-programming/task2"
+        },
+        {
+            "id": 3,
+            "title": "System Programming Task 3",
+            "description": "Utilizing thread pools for efficient thread management.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/system-programming/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/system-programming/task3"
+        },
+        {
+            "id": 4,
+            "title": "System Programming Task 4",
+            "description": "Implementing synchronization mechanisms.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/system-programming/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/system-programming/task4"
+        },
+        {
+            "id": 5,
+            "title": "System Programming Task 5",
+            "description": "Using semaphores to manage access to shared resources.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/system-programming/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/system-programming/task5"
+        },
+        {
+            "id": 6,
+            "title": "System Programming Task 6",
+            "description": "Handling tasks and auto reset events for concurrency control.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/system-programming/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/system-programming/task6"
+        },
+        {
+            "id": 7,
+            "title": "System Programming Task 7",
+            "description": "Practicing asynchronous programming with async and await.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/system-programming/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/system-programming/task7"
+        }
+    ]
+}

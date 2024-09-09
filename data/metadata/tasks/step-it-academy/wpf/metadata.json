@@ -1,0 +1,88 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "WPF - Task 1",
+            "description": "Introduction to Windows Presentation Foundation (WPF).",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task1"
+        },
+        {
+            "id": 2,
+            "title": "WPF - Task 2",
+            "description": "Using containers in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task2"
+        },
+        {
+            "id": 3,
+            "title": "WPF - Task 3",
+            "description": "Working with basic controls in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task3"
+        },
+        {
+            "id": 4,
+            "title": "WPF - Task 4",
+            "description": "Advanced control usage in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task4"
+        },
+        {
+            "id": 5,
+            "title": "WPF - Task 5",
+            "description": "Creating and managing views in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task5"
+        },
+        {
+            "id": 6,
+            "title": "WPF - Task 6",
+            "description": "Data binding in WPF applications.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task6"
+        },
+        {
+            "id": 7,
+            "title": "WPF - Task 7",
+            "description": "Implementing commands in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task7"
+        },
+        {
+            "id": 8,
+            "title": "WPF - Task 8",
+            "description": "Applying the MVVM pattern in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task8"
+        },
+        {
+            "id": 9,
+            "title": "WPF - Task 9",
+            "description": "Using styles and animations in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task9.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task9"
+        },
+        {
+            "id": 10,
+            "title": "WPF - Task 10",
+            "description": "Examples and projects involving user controls in WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task10.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task10"
+        },
+        {
+            "id": 11,
+            "title": "WPF - Task 11",
+            "description": "Practice task 1 for WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task11.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task11"
+        },
+        {
+            "id": 12,
+            "title": "WPF - Task 12",
+            "description": "Practice task 2 for WPF.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf/task12.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/wpf/task12"
+        }
+    ]
+}

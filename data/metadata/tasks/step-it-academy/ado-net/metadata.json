@@ -1,0 +1,88 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "ADO.NET - Task 1",
+            "description": "Introduction to ADO.NET and setting up the environment.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task1"
+        },
+        {
+            "id": 2,
+            "title": "ADO.NET - Task 2",
+            "description": "Working with datasets to manage data in memory.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task2"
+        },
+        {
+            "id": 3,
+            "title": "ADO.NET - Task 3",
+            "description": "Managing database transactions to ensure data consistency.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task3"
+        },
+        {
+            "id": 4,
+            "title": "ADO.NET - Task 4",
+            "description": "Using Cancellation Tokens and LINQ to SQL for efficient data operations.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task4"
+        },
+        {
+            "id": 5,
+            "title": "ADO.NET - Task 5",
+            "description": "Applying LINQ to query and manipulate data in ADO.NET.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task5"
+        },
+        {
+            "id": 6,
+            "title": "ADO.NET - Task 6",
+            "description": "Implementing the Database First approach with Entity Framework.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task6"
+        },
+        {
+            "id": 7,
+            "title": "ADO.NET - Task 7",
+            "description": "Using the Code First approach with Entity Framework to create models.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task7"
+        },
+        {
+            "id": 8,
+            "title": "ADO.NET - Task 8",
+            "description": "Handling Many-to-Many relationships in Entity Framework.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task8"
+        },
+        {
+            "id": 9,
+            "title": "ADO.NET - Task 9",
+            "description": "Utilizing Fluent API and IUnitOfWork for advanced configuration.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task9.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task9"
+        },
+        {
+            "id": 10,
+            "title": "ADO.NET - Task 10",
+            "description": "Implementing data access with Dapper for improved performance.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task10.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task10"
+        },
+        {
+            "id": 11,
+            "title": "ADO.NET - Task 11",
+            "description": "Managing relationships between data entities using Dapper.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task11.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task11"
+        },
+        {
+            "id": 12,
+            "title": "ADO.NET - Task 12",
+            "description": "Practicing Dapper with real-world scenarios and examples.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net/task12.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/ado-net/task12"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "SQL - Task 1",
+            "description": "Introduction to SQL and its basic concepts.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task1"
+        },
+        {
+            "id": 2,
+            "title": "SQL - Task 2",
+            "description": "Working with Data Manipulation Language (DML) operations.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task2"
+        },
+        {
+            "id": 3,
+            "title": "SQL - Task 3",
+            "description": "Utilizing aggregate functions to summarize data.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task3"
+        },
+        {
+            "id": 4,
+            "title": "SQL - Task 4",
+            "description": "Exploring relational databases and their structures.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task4"
+        },
+        {
+            "id": 5,
+            "title": "SQL - Task 5",
+            "description": "Writing and optimizing subqueries for data retrieval.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task5"
+        },
+        {
+            "id": 6,
+            "title": "SQL - Task 6",
+            "description": "Applying normalization techniques and managing data cascades.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task6"
+        },
+        {
+            "id": 7,
+            "title": "SQL - Task 7",
+            "description": "Implementing joins and combinations to retrieve complex data.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task7"
+        },
+        {
+            "id": 8,
+            "title": "SQL - Task 8",
+            "description": "Creating and managing views for data presentation.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task8"
+        },
+        {
+            "id": 9,
+            "title": "SQL - Task 9",
+            "description": "Using variables and functions to enhance SQL queries.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task9.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task9"
+        },
+        {
+            "id": 10,
+            "title": "SQL - Task 10",
+            "description": "Developing and utilizing stored procedures.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task10.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task10"
+        },
+        {
+            "id": 11,
+            "title": "SQL - Task 11",
+            "description": "Creating and managing triggers for automatic actions.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task11.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task11"
+        },
+        {
+            "id": 12,
+            "title": "SQL - Task 12",
+            "description": "Handling transactions and practicing SQL techniques.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql/task12.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/sql/task12"
+        }
+    ]
+}

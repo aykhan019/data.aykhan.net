@@ -1,0 +1,60 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Network Programming Task 1",
+            "description": "Introduction to network programming concepts and fundamentals.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task1"
+        },
+        {
+            "id": 2,
+            "title": "Network Programming Task 2",
+            "description": "Creating a TCP listener to manage incoming network connections.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task2"
+        },
+        {
+            "id": 3,
+            "title": "Network Programming Task 3",
+            "description": "Implementing network communication using UDP protocols.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task3"
+        },
+        {
+            "id": 4,
+            "title": "Network Programming Task 4",
+            "description": "Monitoring a live project to analyze network behavior and performance.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task4"
+        },
+        {
+            "id": 5,
+            "title": "Network Programming Task 5",
+            "description": "Developing a Tic Tac Toe game to showcase network communication.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task5"
+        },
+        {
+            "id": 6,
+            "title": "Network Programming Task 6",
+            "description": "Designing a monolith structure with server and UI clients.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task6"
+        },
+        {
+            "id": 7,
+            "title": "Network Programming Task 7",
+            "description": "Implementing a monolith structure with the server as a Web API.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task7"
+        },
+        {
+            "id": 8,
+            "title": "Network Programming Task 8",
+            "description": "Using Swagger to create and document a custom API.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/network-programming/task8"
+        }
+    ]
+}

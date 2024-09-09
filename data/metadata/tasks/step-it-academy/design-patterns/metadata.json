@@ -1,0 +1,67 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Design Patterns Task 1",
+            "description": "Introduction to UML and the basics of design patterns.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task1"
+        },
+        {
+            "id": 2,
+            "title": "Design Patterns Task 2",
+            "description": "Implementing Factory, Abstract, and Singleton design patterns.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task2"
+        },
+        {
+            "id": 3,
+            "title": "Design Patterns Task 3",
+            "description": "Applying Adapter, Builder, and Prototype design patterns.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task3"
+        },
+        {
+            "id": 4,
+            "title": "Design Patterns Task 4",
+            "description": "Using the Proxy design pattern for controlling access.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task4"
+        },
+        {
+            "id": 5,
+            "title": "Design Patterns Task 5",
+            "description": "Implementing Flyweight, Decorator, and Bridge design patterns.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task5"
+        },
+        {
+            "id": 6,
+            "title": "Design Patterns Task 6",
+            "description": "Applying the Facade design pattern to simplify complex systems.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task6"
+        },
+        {
+            "id": 7,
+            "title": "Design Patterns Task 7",
+            "description": "Utilizing Command and Memento design patterns for command handling and state management.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task7"
+        },
+        {
+            "id": 8,
+            "title": "Design Patterns Task 8",
+            "description": "Applying State, Iterator, Observer, and Template Method design patterns.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task8.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task8"
+        },
+        {
+            "id": 9,
+            "title": "Design Patterns Task 9",
+            "description": "Implementing the Visitor design pattern and understanding SOLID principles.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns/task9.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/design-patterns/task9"
+        }
+    ]
+}

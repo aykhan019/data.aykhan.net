@@ -1,0 +1,53 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Windows Forms Task 1",
+            "description": "Introduction to Windows Forms.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/windows-forms/task1.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/windows-forms/task1"
+        },
+        {
+            "id": 2,
+            "title": "Windows Forms Task 2",
+            "description": "Working with different controls in Windows Forms.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/windows-forms/task2.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/windows-forms/task2"
+        },
+        {
+            "id": 3,
+            "title": "Windows Forms Task 3",
+            "description": "Using ListBox and ComboBox controls.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/windows-forms/task3.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/windows-forms/task3"
+        },
+        {
+            "id": 4,
+            "title": "Windows Forms Task 4",
+            "description": "Implementing ProgressBar and NumericUpDown controls.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/windows-forms/task4.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/windows-forms/task4"
+        },
+        {
+            "id": 5,
+            "title": "Windows Forms Task 5",
+            "description": "Practical exercises with Windows Forms.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/windows-forms/task5.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/windows-forms/task5"
+        },
+        {
+            "id": 6,
+            "title": "Windows Forms Task 6",
+            "description": "Working with multiple forms in a project.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/windows-forms/task6.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/windows-forms/task6"
+        },
+        {
+            "id": 7,
+            "title": "Windows Forms Task 7",
+            "description": "Implementing the Model-View-Presenter (MVP) pattern.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/windows-forms/task7.png",
+            "linkUrl": "https://aykhan.net/tasks/step-it-academy/windows-forms/task7"
+        }
+    ]
+}
