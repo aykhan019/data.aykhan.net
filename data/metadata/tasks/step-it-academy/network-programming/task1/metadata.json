@@ -4,14 +4,14 @@
             "id": 1,
             "title": "Client Side",
             "description": "Client Side for Network Programming Task 1",
-            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task1.png",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task1.png",
             "linkUrl": "https://github.com/aykhan019/ImageSending_Client"
         },
         {
             "id": 2,
             "title": "Server Side",
             "description": "Server Side for Network Programming Task 1",
-            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task1.png",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task1.png",
             "linkUrl": "https://github.com/aykhan019/ImageSending_Server"
         }
     ]

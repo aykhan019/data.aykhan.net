@@ -4,14 +4,14 @@
             "id": 1,
             "title": "Client Side",
             "description": "Client Side for Network Programming Task 7",
-            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react/task7.png",
-            "linkUrl": "https://github.com/aykhan019/TeamViewerAppTaskClient"
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task7.png",
+            "linkUrl": "https://github.com/aykhan019/SwaggerAppProducts"
         },
         {
             "id": 2,
             "title": "Server Side",
             "description": "Server Side for Network Programming Task 7",
-            "imageUrl": "https://github.com/aykhan019/SwaggerAppProducts",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming/task7.png",
             "linkUrl": "https://github.com/aykhan019/SwaggerAppServerSide"
         }
     ]
