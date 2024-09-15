@@ -2,31 +2,87 @@
     "projects": [
         {
             "id": 1,
-            "title": "Zust",
-            "description": "Social Media Website",
+            "title": "Zust Social Media App",
+            "description": "A comprehensive social media platform with features for user interaction and content management.",
             "imageUrl": "https://media.aykhan.net/thumbnails/projects/zust.png",
-            "linkUrl": "https://aykhan.net/projects/zust"
+            "linkUrl": "https://github.com/aykhan019/Zust"
         },
         {
             "id": 2,
-            "title": "KhanChess",
-            "description": "Playing a chess game against a chess bot that chooses moves randomly.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/khanchess.png",
-            "linkUrl": "https://aykhan.net/projects/khanchess"
+            "title": "CinemaKhan",
+            "description": "A full-featured cinema management system allowing users to book tickets and manage cinema schedules.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/wpf.jpg",
+            "linkUrl": "https://github.com/aykhan019/CinemaKhan"
         },
         {
             "id": 3,
-            "title": "KhanLibrary",
-            "description": "Library App in React",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/khanlibrary.png",
-            "linkUrl": "https://aykhan.net/projects/khanlibrary"
+            "title": "Uno Card Game Simulation",
+            "description": "A simulation of the classic Uno card game with a focus on game mechanics and user interaction.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/uno.jpg",
+            "linkUrl": "https://github.com/aykhan019/UNO"
         },
         {
             "id": 4,
-            "title": "Calculation Practise",
-            "description": "Website to Practise Calculation",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/calculation-practise.png",
-            "linkUrl": "https://aykhan.net/projects/calculation-practise"
+            "title": "Battleship Game in C++",
+            "description": "A classic Battleship game implemented in C++, featuring a two-player mode.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/battleship.jpg",
+            "linkUrl": "https://github.com/aykhan019/Battleship_Cpp"
+        },
+        {
+            "id": 5,
+            "title": "Chess Game",
+            "description": "A browser-based chess game that allows you to play against an AI or locally with another player.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/chess.png",
+            "linkUrl": "https://github.com/aykhan019/KhanChess"
+        },
+        {
+            "id": 6,
+            "title": "C-Sharp Exam Project: Boss.Az",
+            "description": "A console-based application demonstrating concurrency management and data processing in C#.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/c-sharp.jpeg",
+            "linkUrl": "https://github.com/aykhan019/Cs_ExamProject"
+        },
+        {
+            "id": 7,
+            "title": "Notion Quiz Bot",
+            "description": "A web application that generates quizzes from Notion data using AI, with a React front-end and Flask back-end.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/notion-quiz-bot.jpg",
+            "linkUrl": "https://github.com/aykhan019/NotionQuizBot"
+        },
+        {
+            "id": 8,
+            "title": "C++ OOP Final Project: Restaurant Management System",
+            "description": "A C++ application demonstrating OOP concepts with a focus on restaurant management functionalities.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/cpp.jpeg",
+            "linkUrl": "https://github.com/aykhan019/FinalProject_Cpp_OOP"
+        },
+        {
+            "id": 9,
+            "title": "CinemaPlus - Diploma Project",
+            "description": "A cinema ticket booking system with features for browsing movies, selecting seats, and managing bookings.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/cinema-plus.jpg",
+            "linkUrl": "https://github.com/aykhan019/CinemaPlus-Project"
+        },
+        {
+            "id": 10,
+            "title": "Khan Dictionary",
+            "description": "A React-based application for creating and managing custom dictionaries.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/khan-dictionary.png",
+            "linkUrl": "https://github.com/aykhan019/KhanDictionary"
+        },
+        {
+            "id": 11,
+            "title": "Dictionary App",
+            "description": "A WPF application for looking up word definitions with a user-friendly interface.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/dictionary.jpg",
+            "linkUrl": "https://github.com/aykhan019/DictionaryApp"
+        },
+        {
+            "id": 12,
+            "title": "Python Exam Project - Gas Station",
+            "description": "A Python-based simulation of a gas station management system, featuring inventory management and report generation.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/python.png",
+            "linkUrl": "https://github.com/aykhan019/Python_ExamProject"
         }
     ]
 }
