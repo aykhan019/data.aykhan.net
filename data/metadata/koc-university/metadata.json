@@ -1,0 +1,19 @@
+{
+    "step-it-academy-items": [
+      {
+        "id": 1,
+        "title": "Koç University Notes",
+        "description": "Explore my notes from the courses I took at Koç University.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/koc/thumbnail.jpg",
+        "linkUrl": "https://aykhan.net/notion/koc"
+      },
+      {
+        "id": 2,
+        "title": "Koç University",
+        "description": "Discover my project at Koç University.",
+        "imageUrl": "https://media.aykhan.net/thumbnails/koc/thumbnail.jpg",
+        "linkUrl": "https://aykhan.net/tasks/koc"
+      }
+    ]
+  }
+  
