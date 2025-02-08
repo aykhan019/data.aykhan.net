@@ -9,6 +9,13 @@
     },
     {
       "id": 2,
+      "title": "STEP IT Academy",
+      "description": "Collection of notes from Step IT Academy.",
+      "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/thumbnail.jpg",
+      "linkUrl": "https://aykhan.net/notion/step-it-academy"
+    },
+    {
+      "id": 3,
       "title": "Koç University",
       "description": "Collection of notes from Koç University courses.",
       "imageUrl": "https://media.aykhan.net/thumbnails/koc/thumbnail.png",

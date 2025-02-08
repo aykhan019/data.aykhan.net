@@ -1,0 +1,102 @@
+{
+    "step-it-academy-lessons": [
+        {
+            "id": 1,
+            "title": "ADO.NET",
+            "description": "Data access in .NET with ADO.NET for efficient database interactions.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net"
+        },
+        {
+            "id": 2,
+            "title": "ASP.NET",
+            "description": "Web development with ASP.NET for modern, scalable applications.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-10.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/asp-net"
+        },
+        {
+            "id": 3,
+            "title": "C++",
+            "description": "High-performance applications and system development with C++.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus"
+        },
+        {
+            "id": 4,
+            "title": "C#",
+            "description": "Robust and scalable applications with C# in .NET.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp"
+        },
+        {
+            "id": 5,
+            "title": "Design Patterns",
+            "description": "Scalable and maintainable software architectures with design patterns.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns"
+        },
+        {
+            "id": 6,
+            "title": "Java Script",
+            "description": "Dynamic and interactive web applications with JavaScript.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script"
+        },
+        {
+            "id": 7,
+            "title": "Network Programming",
+            "description": "Network programming concepts and communication protocols.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming"
+        },
+        {
+            "id": 8,
+            "title": "React",
+            "description": "Modern and efficient user interfaces for web applications with React.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/react"
+        },
+        {
+            "id": 9,
+            "title": "SQL",
+            "description": "Management and querying of relational databases with SQL.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/sql"
+        },
+        {
+            "id": 10,
+            "title": "System Programming",
+            "description": "System programming and low-level software development.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming"
+        },
+        {
+            "id": 11,
+            "title": "Team Management",
+            "description": "Strategies for managing and leading development teams.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-9.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/team-management"
+        },
+        {
+            "id": 12,
+            "title": "Web Programming",
+            "description": "Web programming fundamentals for interactive web solutions.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming"
+        },
+        {
+            "id": 13,
+            "title": "Windows Forms",
+            "description": "Windows applications with the Windows Forms framework in .NET.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms"
+        },
+        {
+            "id": 14,
+            "title": "WPF",
+            "description": "Windows Presentation Foundation (WPF) for rich desktop applications.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf"
+        }
+    ]
+}

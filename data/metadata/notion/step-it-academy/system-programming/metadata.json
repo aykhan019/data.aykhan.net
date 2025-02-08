@@ -1,0 +1,53 @@
+{
+    "system-programming-lessons": [
+        {
+            "id": 1,
+            "title": "Introduction to System Programming",
+            "description": "Overview of system programming concepts, low-level operations, and resource management.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming/lesson-1"
+        },
+        {
+            "id": 2,
+            "title": "Thread",
+            "description": "Understanding threading concepts, thread lifecycle, and parallel execution in system programming.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming/lesson-2"
+        },
+        {
+            "id": 3,
+            "title": "ThreadPool",
+            "description": "Using ThreadPool for efficient task execution and resource management in multi-threaded applications.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming/lesson-3"
+        },
+        {
+            "id": 4,
+            "title": "Synchronization",
+            "description": "Handling synchronization in multi-threaded programs to prevent race conditions and deadlocks.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming/lesson-4"
+        },
+        {
+            "id": 5,
+            "title": "Semaphore",
+            "description": "Implementing semaphores to control access to shared resources in concurrent programming.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming/lesson-5"
+        },
+        {
+            "id": 6,
+            "title": "Task, Auto Reset Event",
+            "description": "Understanding tasks and the AutoResetEvent mechanism for thread synchronization.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming/lesson-6"
+        },
+        {
+            "id": 7,
+            "title": "Async, Await, Task, API Practise",
+            "description": "Exploring asynchronous programming with async, await, and tasks, including API interaction.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-6.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/system-programming/lesson-7"
+        }
+    ]
+}

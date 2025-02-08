@@ -1,0 +1,95 @@
+{
+    "java-script-lessons": [
+        {
+            "id": 1,
+            "title": "Introduction to Java Script",
+            "description": "Overview of JavaScript, its syntax, and role in web development.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-1"
+        },
+        {
+            "id": 2,
+            "title": "JavaScript Arrays, String",
+            "description": "Working with arrays and strings in JavaScript, including methods and manipulations.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-2"
+        },
+        {
+            "id": 3,
+            "title": "DOM Elements",
+            "description": "Understanding the Document Object Model (DOM) and how to manipulate elements dynamically.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-3"
+        },
+        {
+            "id": 4,
+            "title": "Slider Practise",
+            "description": "Implementing and customizing sliders using JavaScript for interactive web pages.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-4"
+        },
+        {
+            "id": 5,
+            "title": "BOM Elements, Cookies",
+            "description": "Working with Browser Object Model (BOM) elements and managing cookies in JavaScript.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-5"
+        },
+        {
+            "id": 6,
+            "title": "Work with Forms, Canvas",
+            "description": "Handling form inputs and using the HTML5 Canvas API with JavaScript.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-6"
+        },
+        {
+            "id": 7,
+            "title": "Async, Await, XHR",
+            "description": "Understanding asynchronous programming in JavaScript with async, await, and XHR requests.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-7"
+        },
+        {
+            "id": 8,
+            "title": "Java Script Fetch",
+            "description": "Using the Fetch API to retrieve data asynchronously from servers in JavaScript.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-8"
+        },
+        {
+            "id": 9,
+            "title": "JQuery",
+            "description": "Introduction to JQuery, its selectors, and methods for simplifying JavaScript development.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-9"
+        },
+        {
+            "id": 10,
+            "title": "JQuery Project Description",
+            "description": "Overview of a JQuery-based project, including features and implementation details.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-10"
+        },
+        {
+            "id": 11,
+            "title": "JQuery Practise",
+            "description": "Practical exercises and projects using JQuery for interactive web applications.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-11"
+        },
+        {
+            "id": 12,
+            "title": "AJAX",
+            "description": "Understanding AJAX for asynchronous data fetching and dynamic content updates.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-12"
+        },
+        {
+            "id": 13,
+            "title": "AJAX Methods",
+            "description": "Exploring different AJAX methods in JavaScript for making HTTP requests efficiently.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-4.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/java-script/lesson-13"
+        }
+    ]
+}

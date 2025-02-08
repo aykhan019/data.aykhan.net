@@ -1,0 +1,53 @@
+{
+    "windows-forms-lessons": [
+        {
+            "id": 1,
+            "title": "Introduction To Windows Forms",
+            "description": "Overview of Windows Forms, its components, and its role in desktop application development.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms/lesson-1"
+        },
+        {
+            "id": 2,
+            "title": "Controls",
+            "description": "Understanding controls in Windows Forms, including buttons, labels, and input fields.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms/lesson-2"
+        },
+        {
+            "id": 3,
+            "title": "ListBox, ComboBox",
+            "description": "Working with ListBox and ComboBox controls for data selection in Windows Forms applications.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms/lesson-3"
+        },
+        {
+            "id": 4,
+            "title": "ProgressBar, NumericUpDown",
+            "description": "Implementing ProgressBar and NumericUpDown controls for better user experience in Windows Forms.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms/lesson-4"
+        },
+        {
+            "id": 5,
+            "title": "Practise",
+            "description": "Hands-on practice with Windows Forms controls and event handling.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms/lesson-5"
+        },
+        {
+            "id": 6,
+            "title": "Work With Forms",
+            "description": "Exploring form navigation, multiple form interactions, and event-driven programming.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms/lesson-6"
+        },
+        {
+            "id": 7,
+            "title": "MVP",
+            "description": "Understanding the Model-View-Presenter (MVP) pattern in Windows Forms applications.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-3.jpg",
+            "linkUrl": "https://aykhan.net/notion/step-it-academy/windows-forms/lesson-7"
+        }
+    ]
+}
