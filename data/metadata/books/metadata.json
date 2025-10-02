@@ -38,28 +38,28 @@
     {
       "id": 6,
       "title": "COMP201",
-      "description": "Data structures and algorithms essentials.",
+      "description": "C Programming Language & Assembly.",
       "imageUrl": "https://media.aykhan.net/books/thumbnails/comp201-thumbnail.jpg",
       "linkUrl": "https://media.aykhan.net/books/pdf/comp201-book.pdf"
     },
     {
       "id": 7,
       "title": "COMP202",
-      "description": "Object-oriented programming in Java.",
+      "description": "Data structures and algorithms essentials.",
       "imageUrl": "https://media.aykhan.net/books/thumbnails/comp202-thumbnail.jpg",
       "linkUrl": "https://media.aykhan.net/books/pdf/comp202-book.pdf"
     },
     {
       "id": 8,
       "title": "ECON100",
-      "description": "Introductory microeconomics and macroeconomics.",
+      "description": "Introductory microeconomics.",
       "imageUrl": "https://media.aykhan.net/books/thumbnails/econ100-thumbnail.jpg",
       "linkUrl": "https://media.aykhan.net/books/pdf/econ100-book.pdf"
     },
     {
       "id": 9,
       "title": "SOSC116",
-      "description": "Social sciences perspectives and inquiry.",
+      "description": "Challenges Facing Young Democracies.",
       "imageUrl": "https://media.aykhan.net/books/thumbnails/sosc116-thumbnail.jpg",
       "linkUrl": "https://media.aykhan.net/books/pdf/sosc116-book.pdf"
     }
