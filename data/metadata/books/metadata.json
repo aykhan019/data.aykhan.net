@@ -1,0 +1,67 @@
+{
+  "book-items": [
+    {
+      "id": 1,
+      "title": "MATH106",
+      "description": "Limits, derivatives, integrals basics.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/math106-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/math106-book.pdf"
+    },
+    {
+      "id": 2,
+      "title": "MATH107",
+      "description": "Introductory linear algebra: matrices, vectors.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/math107-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/math107-book.pdf"
+    },
+    {
+      "id": 3,
+      "title": "MATH203",
+      "description": "Multivariable calculus: derivatives and integrals.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/math203-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/math203-book.pdf"
+    },
+    {
+      "id": 4,
+      "title": "PHYS101",
+      "description": "Mechanics, motion, energy, and waves.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/phys101-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/phys101-book.pdf"
+    },
+    {
+      "id": 5,
+      "title": "ELEC205",
+      "description": "Digital systems, logic, and assembly.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/elec205-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/elec205-book.pdf"
+    },
+    {
+      "id": 6,
+      "title": "COMP201",
+      "description": "Data structures and algorithms essentials.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/comp201-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/comp201-book.pdf"
+    },
+    {
+      "id": 7,
+      "title": "COMP202",
+      "description": "Object-oriented programming in Java.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/comp202-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/comp202-book.pdf"
+    },
+    {
+      "id": 8,
+      "title": "ECON100",
+      "description": "Introductory microeconomics and macroeconomics.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/econ100-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/econ100-book.pdf"
+    },
+    {
+      "id": 9,
+      "title": "SOSC116",
+      "description": "Social sciences perspectives and inquiry.",
+      "imageUrl": "https://media.aykhan.net/books/thumbnails/sosc116-thumbnail.jpg",
+      "linkUrl": "https://media.aykhan.net/books/pdf/sosc116-book.pdf"
+    }
+  ]
+}
