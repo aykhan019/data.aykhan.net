@@ -1,0 +1,15 @@
+{
+  "service": "data",
+  "generatedAt": "2026-06-08T20:26:26Z",
+  "totalEndpoints": 60,
+  "indexedFolders": [
+    "data"
+  ],
+  "skippedFolders": [],
+  "notes": [
+    "Whitelist-based: only top-level folders in WHITELIST_DIRS are scanned.",
+    "Only .json files are indexed; hidden files, .env and secrets are excluded.",
+    "Only metadata (name/path/url/size) is published -- contents are not inlined.",
+    "Indexed endpoints are already public static files."
+  ]
+}

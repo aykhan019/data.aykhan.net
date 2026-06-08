@@ -1,5 +1,6 @@
 import os
 import time
+import json
 from datetime import datetime, timezone
 
 # HTML template for the index.html file, with a signature comment
@@ -246,6 +247,102 @@ def generate_index_html(folder_path):
 
         print(f'Updated {index_file_path}')
 
+# ---------------------------------------------------------------------------
+# Public JSON data index (read-only, whitelist-based)
+# ---------------------------------------------------------------------------
+# Only the top-level folders in WHITELIST_DIRS are scanned, and only .json files
+# are indexed. Hidden files, .env, secrets, HTML, and scripts are ignored. The
+# generated data-index.json exposes public metadata (name/path/url/size) only --
+# it never inlines file contents.
+
+BASE_URL = "https://data.aykhan.net"
+
+WHITELIST_DIRS = ["data", "public"]
+
+DENY_DIR_NAMES = {
+    ".git", ".github", "__pycache__", "node_modules",
+    "private", "drafts", "secrets", ".secrets",
+}
+
+
+def _iter_json_files():
+    """Yield paths of indexable .json files in whitelisted folders."""
+    for top in WHITELIST_DIRS:
+        if not os.path.isdir(top):
+            continue
+        for root, dirs, files in os.walk(top):
+            dirs[:] = [d for d in dirs
+                       if not d.startswith('.') and d not in DENY_DIR_NAMES]
+            for name in files:
+                if name.startswith('.'):
+                    continue
+                if name.lower().endswith('.json'):
+                    yield os.path.join(root, name)
+
+
+def _unique_name(stem, parent, taken):
+    """Pick a readable, collision-free endpoint name."""
+    candidate = stem if stem not in taken else f"{parent}-{stem}"
+    base, i = candidate, 2
+    while candidate in taken:
+        candidate = f"{base}-{i}"
+        i += 1
+    taken.add(candidate)
+    return candidate
+
+
+def generate_data_index():
+    """Write data-index.json + build-report.json from whitelisted folders only."""
+    endpoints = []
+    taken = set()
+    for path in sorted(_iter_json_files()):
+        rel = path.replace(os.sep, '/').lstrip('./')
+        stem = os.path.splitext(os.path.basename(path))[0]
+        parent = os.path.basename(os.path.dirname(path))
+        endpoints.append({
+            "name": _unique_name(stem, parent, taken),
+            "path": rel,
+            "url": f"{BASE_URL}/{rel}",
+            "sizeBytes": os.path.getsize(path),
+        })
+
+    generated_at = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+
+    index = {
+        "service": "data",
+        "generatedAt": generated_at,
+        "baseUrl": BASE_URL,
+        "totalEndpoints": len(endpoints),
+        "endpoints": endpoints,
+    }
+    with open("data-index.json", "w", encoding="utf-8") as f:
+        json.dump(index, f, indent=2, ensure_ascii=False)
+
+    indexed_top = sorted({e["path"].split('/')[0] for e in endpoints})
+    all_top = sorted(d for d in os.listdir('.') if os.path.isdir(d))
+    skipped = [d for d in all_top
+               if d not in indexed_top and d not in DENY_DIR_NAMES]
+
+    report = {
+        "service": "data",
+        "generatedAt": generated_at,
+        "totalEndpoints": len(endpoints),
+        "indexedFolders": indexed_top,
+        "skippedFolders": skipped,
+        "notes": [
+            "Whitelist-based: only top-level folders in WHITELIST_DIRS are scanned.",
+            "Only .json files are indexed; hidden files, .env and secrets are excluded.",
+            "Only metadata (name/path/url/size) is published -- contents are not inlined.",
+            "Indexed endpoints are already public static files.",
+        ],
+    }
+    with open("build-report.json", "w", encoding="utf-8") as f:
+        json.dump(report, f, indent=2, ensure_ascii=False)
+
+    print(f"Wrote data-index.json ({len(endpoints)} endpoints) and build-report.json")
+
+
 if __name__ == "__main__":
     root_folder = '.'
     generate_index_html(root_folder)
+    generate_data_index()

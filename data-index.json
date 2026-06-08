@@ -1,0 +1,368 @@
+{
+  "service": "data",
+  "generatedAt": "2026-06-08T20:26:26Z",
+  "baseUrl": "https://data.aykhan.net",
+  "totalEndpoints": 60,
+  "endpoints": [
+    {
+      "name": "book-comments",
+      "path": "data/general/book-comments.json",
+      "url": "https://data.aykhan.net/data/general/book-comments.json",
+      "sizeBytes": 1644568
+    },
+    {
+      "name": "books",
+      "path": "data/general/books.json",
+      "url": "https://data.aykhan.net/data/general/books.json",
+      "sizeBytes": 339913
+    },
+    {
+      "name": "halls",
+      "path": "data/general/halls.json",
+      "url": "https://data.aykhan.net/data/general/halls.json",
+      "sizeBytes": 8481
+    },
+    {
+      "name": "movies",
+      "path": "data/general/movies.json",
+      "url": "https://data.aykhan.net/data/general/movies.json",
+      "sizeBytes": 424923
+    },
+    {
+      "name": "products",
+      "path": "data/general/products.json",
+      "url": "https://data.aykhan.net/data/general/products.json",
+      "sizeBytes": 84966735
+    },
+    {
+      "name": "theatres",
+      "path": "data/general/theatres.json",
+      "url": "https://data.aykhan.net/data/general/theatres.json",
+      "sizeBytes": 7267
+    },
+    {
+      "name": "users",
+      "path": "data/general/users.json",
+      "url": "https://data.aykhan.net/data/general/users.json",
+      "sizeBytes": 896239
+    },
+    {
+      "name": "metadata",
+      "path": "data/metadata/achievements/badges/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/achievements/badges/metadata.json",
+      "sizeBytes": 1324
+    },
+    {
+      "name": "certificates-metadata",
+      "path": "data/metadata/achievements/certificates/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/achievements/certificates/metadata.json",
+      "sizeBytes": 1417
+    },
+    {
+      "name": "achievements-metadata",
+      "path": "data/metadata/achievements/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/achievements/metadata.json",
+      "sizeBytes": 632
+    },
+    {
+      "name": "books-metadata",
+      "path": "data/metadata/books/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/books/metadata.json",
+      "sizeBytes": 2489
+    },
+    {
+      "name": "koc-university-metadata",
+      "path": "data/metadata/koc-university/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/koc-university/metadata.json",
+      "sizeBytes": 569
+    },
+    {
+      "name": "ai-capstone-project-with-deep-learning-metadata",
+      "path": "data/metadata/notion/coursera/ibm-ai-engineering/ai-capstone-project-with-deep-learning/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/ai-capstone-project-with-deep-learning/metadata.json",
+      "sizeBytes": 1587
+    },
+    {
+      "name": "building-deep-learning-models-with-tensorflow-metadata",
+      "path": "data/metadata/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/metadata.json",
+      "sizeBytes": 2275
+    },
+    {
+      "name": "deep-neural-networks-with-pytorch-metadata",
+      "path": "data/metadata/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/metadata.json",
+      "sizeBytes": 4039
+    },
+    {
+      "name": "introduction-to-computer-vision-and-image-processing-metadata",
+      "path": "data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/metadata.json",
+      "sizeBytes": 2837
+    },
+    {
+      "name": "introduction-to-deep-learning-and-neural-networks-with-keras-metadata",
+      "path": "data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/metadata.json",
+      "sizeBytes": 2425
+    },
+    {
+      "name": "machine-learning-with-python-metadata",
+      "path": "data/metadata/notion/coursera/ibm-ai-engineering/machine-learning-with-python/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/machine-learning-with-python/metadata.json",
+      "sizeBytes": 2380
+    },
+    {
+      "name": "ibm-ai-engineering-metadata",
+      "path": "data/metadata/notion/coursera/ibm-ai-engineering/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/metadata.json",
+      "sizeBytes": 2841
+    },
+    {
+      "name": "data-analysis-with-python-metadata",
+      "path": "data/metadata/notion/coursera/ibm-data-science/data-analysis-with-python/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-data-science/data-analysis-with-python/metadata.json",
+      "sizeBytes": 1972
+    },
+    {
+      "name": "ibm-data-science-metadata",
+      "path": "data/metadata/notion/coursera/ibm-data-science/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-data-science/metadata.json",
+      "sizeBytes": 439
+    },
+    {
+      "name": "coursera-metadata",
+      "path": "data/metadata/notion/coursera/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/coursera/metadata.json",
+      "sizeBytes": 635
+    },
+    {
+      "name": "koc-metadata",
+      "path": "data/metadata/notion/koc/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/koc/metadata.json",
+      "sizeBytes": 1208
+    },
+    {
+      "name": "notion-metadata",
+      "path": "data/metadata/notion/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/metadata.json",
+      "sizeBytes": 818
+    },
+    {
+      "name": "ado-net-metadata",
+      "path": "data/metadata/notion/step-it-academy/ado-net/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/ado-net/metadata.json",
+      "sizeBytes": 4710
+    },
+    {
+      "name": "asp-net-metadata",
+      "path": "data/metadata/notion/step-it-academy/asp-net/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/asp-net/metadata.json",
+      "sizeBytes": 11525
+    },
+    {
+      "name": "c-plus-plus-metadata",
+      "path": "data/metadata/notion/step-it-academy/c-plus-plus/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/c-plus-plus/metadata.json",
+      "sizeBytes": 7393
+    },
+    {
+      "name": "c-sharp-metadata",
+      "path": "data/metadata/notion/step-it-academy/c-sharp/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/c-sharp/metadata.json",
+      "sizeBytes": 6416
+    },
+    {
+      "name": "design-patterns-metadata",
+      "path": "data/metadata/notion/step-it-academy/design-patterns/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/design-patterns/metadata.json",
+      "sizeBytes": 3681
+    },
+    {
+      "name": "java-script-metadata",
+      "path": "data/metadata/notion/step-it-academy/java-script/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/java-script/metadata.json",
+      "sizeBytes": 4994
+    },
+    {
+      "name": "step-it-academy-metadata",
+      "path": "data/metadata/notion/step-it-academy/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/metadata.json",
+      "sizeBytes": 4882
+    },
+    {
+      "name": "network-programming-metadata",
+      "path": "data/metadata/notion/step-it-academy/network-programming/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/network-programming/metadata.json",
+      "sizeBytes": 3241
+    },
+    {
+      "name": "react-metadata",
+      "path": "data/metadata/notion/step-it-academy/react/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/react/metadata.json",
+      "sizeBytes": 5983
+    },
+    {
+      "name": "sql-metadata",
+      "path": "data/metadata/notion/step-it-academy/sql/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/sql/metadata.json",
+      "sizeBytes": 4450
+    },
+    {
+      "name": "system-programming-metadata",
+      "path": "data/metadata/notion/step-it-academy/system-programming/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/system-programming/metadata.json",
+      "sizeBytes": 2840
+    },
+    {
+      "name": "team-management-metadata",
+      "path": "data/metadata/notion/step-it-academy/team-management/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/team-management/metadata.json",
+      "sizeBytes": 1627
+    },
+    {
+      "name": "web-programming-metadata",
+      "path": "data/metadata/notion/step-it-academy/web-programming/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/web-programming/metadata.json",
+      "sizeBytes": 3783
+    },
+    {
+      "name": "windows-forms-metadata",
+      "path": "data/metadata/notion/step-it-academy/windows-forms/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/windows-forms/metadata.json",
+      "sizeBytes": 2751
+    },
+    {
+      "name": "wpf-metadata",
+      "path": "data/metadata/notion/step-it-academy/wpf/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/wpf/metadata.json",
+      "sizeBytes": 4381
+    },
+    {
+      "name": "projects-metadata",
+      "path": "data/metadata/projects/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/projects/metadata.json",
+      "sizeBytes": 4438
+    },
+    {
+      "name": "step-it-academy-metadata-2",
+      "path": "data/metadata/step-it-academy/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/step-it-academy/metadata.json",
+      "sizeBytes": 642
+    },
+    {
+      "name": "koc-metadata-2",
+      "path": "data/metadata/tasks/koc/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/koc/metadata.json",
+      "sizeBytes": 0
+    },
+    {
+      "name": "tasks-metadata",
+      "path": "data/metadata/tasks/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/metadata.json",
+      "sizeBytes": 623
+    },
+    {
+      "name": "ado-net-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/ado-net/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/ado-net/metadata.json",
+      "sizeBytes": 4242
+    },
+    {
+      "name": "asp-net-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/asp-net/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/asp-net/metadata.json",
+      "sizeBytes": 9561
+    },
+    {
+      "name": "design-patterns-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/design-patterns/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/design-patterns/metadata.json",
+      "sizeBytes": 3427
+    },
+    {
+      "name": "java-script-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/java-script/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/java-script/metadata.json",
+      "sizeBytes": 4285
+    },
+    {
+      "name": "step-it-academy-metadata-3",
+      "path": "data/metadata/tasks/step-it-academy/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/metadata.json",
+      "sizeBytes": 3106
+    },
+    {
+      "name": "network-programming-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/network-programming/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/metadata.json",
+      "sizeBytes": 3108
+    },
+    {
+      "name": "task1-metadata",
+      "path": "data/metadata/tasks/step-it-academy/network-programming/task1/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task1/metadata.json",
+      "sizeBytes": 691
+    },
+    {
+      "name": "task2-metadata",
+      "path": "data/metadata/tasks/step-it-academy/network-programming/task2/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task2/metadata.json",
+      "sizeBytes": 687
+    },
+    {
+      "name": "task4-metadata",
+      "path": "data/metadata/tasks/step-it-academy/network-programming/task4/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task4/metadata.json",
+      "sizeBytes": 699
+    },
+    {
+      "name": "task7-metadata",
+      "path": "data/metadata/tasks/step-it-academy/network-programming/task7/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task7/metadata.json",
+      "sizeBytes": 691
+    },
+    {
+      "name": "react-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/react/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/react/metadata.json",
+      "sizeBytes": 4942
+    },
+    {
+      "name": "sql-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/sql/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/sql/metadata.json",
+      "sizeBytes": 4009
+    },
+    {
+      "name": "system-programming-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/system-programming/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/system-programming/metadata.json",
+      "sizeBytes": 2631
+    },
+    {
+      "name": "web-programming-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/web-programming/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/web-programming/metadata.json",
+      "sizeBytes": 3307
+    },
+    {
+      "name": "windows-forms-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/windows-forms/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/windows-forms/metadata.json",
+      "sizeBytes": 2471
+    },
+    {
+      "name": "wpf-metadata-2",
+      "path": "data/metadata/tasks/step-it-academy/wpf/metadata.json",
+      "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/wpf/metadata.json",
+      "sizeBytes": 3792
+    },
+    {
+      "name": "task11-movies",
+      "path": "data/step-it-academy/react/task11/movies.json",
+      "url": "https://data.aykhan.net/data/step-it-academy/react/task11/movies.json",
+      "sizeBytes": 4282
+    }
+  ]
+}
