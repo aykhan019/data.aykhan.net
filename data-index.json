@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-10T22:25:43Z",
+  "generatedAt": "2026-06-10T22:35:27Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 61,
   "endpoints": [
@@ -80,43 +80,43 @@
       "name": "ai-capstone-project-with-deep-learning-metadata",
       "path": "data/metadata/notion/coursera/ibm-ai-engineering/ai-capstone-project-with-deep-learning/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/ai-capstone-project-with-deep-learning/metadata.json",
-      "sizeBytes": 1587
+      "sizeBytes": 1479
     },
     {
       "name": "building-deep-learning-models-with-tensorflow-metadata",
       "path": "data/metadata/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/building-deep-learning-models-with-tensorflow/metadata.json",
-      "sizeBytes": 2275
+      "sizeBytes": 2100
     },
     {
       "name": "deep-neural-networks-with-pytorch-metadata",
       "path": "data/metadata/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/deep-neural-networks-with-pytorch/metadata.json",
-      "sizeBytes": 4039
+      "sizeBytes": 3779
     },
     {
       "name": "introduction-to-computer-vision-and-image-processing-metadata",
       "path": "data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-computer-vision-and-image-processing/metadata.json",
-      "sizeBytes": 2837
+      "sizeBytes": 2615
     },
     {
       "name": "introduction-to-deep-learning-and-neural-networks-with-keras-metadata",
       "path": "data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/introduction-to-deep-learning-and-neural-networks-with-keras/metadata.json",
-      "sizeBytes": 2425
+      "sizeBytes": 2220
     },
     {
       "name": "machine-learning-with-python-metadata",
       "path": "data/metadata/notion/coursera/ibm-ai-engineering/machine-learning-with-python/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/machine-learning-with-python/metadata.json",
-      "sizeBytes": 2380
+      "sizeBytes": 2173
     },
     {
       "name": "ibm-ai-engineering-metadata",
       "path": "data/metadata/notion/coursera/ibm-ai-engineering/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-ai-engineering/metadata.json",
-      "sizeBytes": 2841
+      "sizeBytes": 2656
     },
     {
       "name": "data-analysis-with-python-metadata",
