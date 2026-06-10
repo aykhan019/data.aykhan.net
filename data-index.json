@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-10T21:46:33Z",
+  "generatedAt": "2026-06-10T21:57:48Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 61,
   "endpoints": [
@@ -296,7 +296,7 @@
       "name": "step-it-academy-metadata-3",
       "path": "data/metadata/tasks/step-it-academy/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/metadata.json",
-      "sizeBytes": 3106
+      "sizeBytes": 2996
     },
     {
       "name": "network-programming-metadata-2",
