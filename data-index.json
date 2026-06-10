@@ -1,8 +1,8 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-08T21:19:30Z",
+  "generatedAt": "2026-06-10T15:07:51Z",
   "baseUrl": "https://data.aykhan.net",
-  "totalEndpoints": 60,
+  "totalEndpoints": 61,
   "endpoints": [
     {
       "name": "book-comments",
@@ -237,6 +237,12 @@
       "path": "data/metadata/notion/step-it-academy/wpf/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/wpf/metadata.json",
       "sizeBytes": 4381
+    },
+    {
+      "name": "metadata-2",
+      "path": "data/metadata/projects/metadata-2.json",
+      "url": "https://data.aykhan.net/data/metadata/projects/metadata-2.json",
+      "sizeBytes": 4455
     },
     {
       "name": "projects-metadata",
