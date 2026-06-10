@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-10T21:57:48Z",
+  "generatedAt": "2026-06-10T22:07:20Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 61,
   "endpoints": [
@@ -272,25 +272,25 @@
       "name": "ado-net-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/ado-net/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/ado-net/metadata.json",
-      "sizeBytes": 4242
+      "sizeBytes": 4167
     },
     {
       "name": "asp-net-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/asp-net/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/asp-net/metadata.json",
-      "sizeBytes": 9561
+      "sizeBytes": 9360
     },
     {
       "name": "design-patterns-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/design-patterns/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/design-patterns/metadata.json",
-      "sizeBytes": 3427
+      "sizeBytes": 3373
     },
     {
       "name": "java-script-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/java-script/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/java-script/metadata.json",
-      "sizeBytes": 4285
+      "sizeBytes": 4203
     },
     {
       "name": "step-it-academy-metadata-3",
@@ -302,67 +302,67 @@
       "name": "network-programming-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/network-programming/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/metadata.json",
-      "sizeBytes": 3108
+      "sizeBytes": 3060
     },
     {
       "name": "task1-metadata",
       "path": "data/metadata/tasks/step-it-academy/network-programming/task1/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task1/metadata.json",
-      "sizeBytes": 691
+      "sizeBytes": 679
     },
     {
       "name": "task2-metadata",
       "path": "data/metadata/tasks/step-it-academy/network-programming/task2/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task2/metadata.json",
-      "sizeBytes": 687
+      "sizeBytes": 675
     },
     {
       "name": "task4-metadata",
       "path": "data/metadata/tasks/step-it-academy/network-programming/task4/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task4/metadata.json",
-      "sizeBytes": 699
+      "sizeBytes": 687
     },
     {
       "name": "task7-metadata",
       "path": "data/metadata/tasks/step-it-academy/network-programming/task7/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/network-programming/task7/metadata.json",
-      "sizeBytes": 691
+      "sizeBytes": 679
     },
     {
       "name": "react-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/react/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/react/metadata.json",
-      "sizeBytes": 4942
+      "sizeBytes": 4839
     },
     {
       "name": "sql-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/sql/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/sql/metadata.json",
-      "sizeBytes": 4009
+      "sizeBytes": 3934
     },
     {
       "name": "system-programming-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/system-programming/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/system-programming/metadata.json",
-      "sizeBytes": 2631
+      "sizeBytes": 2589
     },
     {
       "name": "web-programming-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/web-programming/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/web-programming/metadata.json",
-      "sizeBytes": 3307
+      "sizeBytes": 3246
     },
     {
       "name": "windows-forms-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/windows-forms/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/windows-forms/metadata.json",
-      "sizeBytes": 2471
+      "sizeBytes": 2429
     },
     {
       "name": "wpf-metadata-2",
       "path": "data/metadata/tasks/step-it-academy/wpf/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/tasks/step-it-academy/wpf/metadata.json",
-      "sizeBytes": 3792
+      "sizeBytes": 3717
     },
     {
       "name": "task11-movies",
