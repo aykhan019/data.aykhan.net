@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-10T21:42:18Z",
+  "generatedAt": "2026-06-10T21:46:33Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 61,
   "endpoints": [
@@ -68,7 +68,7 @@
       "name": "books-metadata",
       "path": "data/metadata/books/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/books/metadata.json",
-      "sizeBytes": 2489
+      "sizeBytes": 2399
     },
     {
       "name": "koc-university-metadata",
