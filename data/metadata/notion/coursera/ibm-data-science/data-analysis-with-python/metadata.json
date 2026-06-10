@@ -4,21 +4,21 @@
         "id": 1,
         "title": "Importing Data Sets",
         "description": "Details about importing data sets for analysis.",
-        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis.png",
         "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python/module-1"
       },
       {
         "id": 2,
         "title": "Data Wrangling",
         "description": "Techniques for cleaning and organizing data.",
-        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis.png",
         "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-analysis/data-analysis-with-python/module-2"
       },
       {
         "id": 3,
         "title": "Exploratory Data Analysis",
         "description": "Methods for exploring and understanding data.",
-        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis-with-python.png",
+        "imageUrl": "https://media.aykhan.net/thumbnails/notion/coursera/ibm/ibm-data-analysis/data-analysis.png",
         "linkUrl": "https://aykhan.net/notion/coursera/ibm-data-science/data-analysis-with-python/module-3"
       },
       {
