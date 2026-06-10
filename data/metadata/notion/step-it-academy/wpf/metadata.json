@@ -4,84 +4,84 @@
             "id": 1,
             "title": "WPF Introduction",
             "description": "Overview of Windows Presentation Foundation (WPF) and its role in modern desktop applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-1"
         },
         {
             "id": 2,
             "title": "Containers",
             "description": "Understanding containers in WPF for organizing UI elements efficiently.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-2"
         },
         {
             "id": 3,
             "title": "Controls",
             "description": "Exploring basic controls in WPF, such as buttons, text boxes, and labels.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-3"
         },
         {
             "id": 4,
             "title": "Controls 2",
             "description": "Advanced WPF controls and their applications in UI development.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-4"
         },
         {
             "id": 5,
             "title": "Views",
             "description": "Understanding WPF views and their role in separating UI components.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-5"
         },
         {
             "id": 6,
             "title": "Binding",
             "description": "Data binding in WPF for seamless integration between UI and backend logic.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-6"
         },
         {
             "id": 7,
             "title": "Commands",
             "description": "Using commands in WPF to handle user interactions and event-driven programming.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-7"
         },
         {
             "id": 8,
             "title": "MVVM",
             "description": "Exploring the Model-View-ViewModel (MVVM) pattern for structuring WPF applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-8"
         },
         {
             "id": 9,
             "title": "Styles, Animations",
             "description": "Implementing styles and animations in WPF for enhanced UI experiences.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-9"
         },
         {
             "id": 10,
             "title": "WPF Examples, Example With User Controls",
             "description": "Practical examples of WPF applications using user controls and custom components.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-10"
         },
         {
             "id": 11,
             "title": "Practise 1",
             "description": "Hands-on exercises for implementing WPF concepts in real-world applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-11"
         },
         {
             "id": 12,
             "title": "Practise 2",
             "description": "Additional practical exercises to strengthen WPF development skills.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-3.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/wpf.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/wpf/lesson-12"
         }
     ]

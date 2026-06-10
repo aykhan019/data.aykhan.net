@@ -4,112 +4,112 @@
             "id": 1,
             "title": "Introduction to React",
             "description": "Overview of React, its core features, and its role in modern web development.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-1"
         },
         {
             "id": 2,
             "title": "Props",
             "description": "Understanding props in React and their usage for passing data between components.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-2"
         },
         {
             "id": 3,
             "title": "Conditional Rendering, Components",
             "description": "Implementing conditional rendering and understanding different types of components in React.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-3"
         },
         {
             "id": 4,
             "title": "UseState, Hooks",
             "description": "Working with the useState hook and understanding React hooks for functional components.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-4"
         },
         {
             "id": 5,
             "title": "To Do List, Practice with React Elements",
             "description": "Building a To-Do List application and practicing React element manipulation.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-5"
         },
         {
             "id": 6,
             "title": "Work with Arrays, Hooks",
             "description": "Manipulating arrays in React and leveraging hooks for state management.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-6"
         },
         {
             "id": 7,
             "title": "Work with Forms",
             "description": "Creating and handling forms efficiently in React applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-7"
         },
         {
             "id": 8,
             "title": "Form Validations",
             "description": "Implementing form validation techniques using React and JavaScript.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-8"
         },
         {
             "id": 9,
             "title": "Fragments, Profiler",
             "description": "Using React Fragments to group elements and understanding performance profiling.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-9"
         },
         {
             "id": 10,
             "title": "UseEffect",
             "description": "Exploring the useEffect hook for managing side effects in React components.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-10"
         },
         {
             "id": 11,
             "title": "UseContext, HTTP Request, Axios",
             "description": "Using React Context API and making HTTP requests with Axios.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-11"
         },
         {
             "id": 12,
             "title": "Class Components",
             "description": "Understanding React class components and their lifecycle methods.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-12"
         },
         {
             "id": 13,
             "title": "Routing",
             "description": "Implementing routing in React applications using React Router.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-13"
         },
         {
             "id": 14,
             "title": "Redux Toolkit",
             "description": "Managing state efficiently with Redux Toolkit in large-scale React applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-14"
         },
         {
             "id": 15,
             "title": "Exam Project",
             "description": "Applying React concepts to build a complete project for assessment.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-15"
         },
         {
             "id": 16,
             "title": "Handle Exception",
             "description": "Managing errors and exceptions in React applications for better user experience.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-1.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/react.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/react/lesson-16"
         }
     ]

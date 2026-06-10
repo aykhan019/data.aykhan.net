@@ -4,84 +4,84 @@
             "id": 1,
             "title": "SQL Introduction",
             "description": "Overview of SQL, its purpose, and its role in managing relational databases.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-1"
         },
         {
             "id": 2,
             "title": "DML (Data Manipulation Language)",
             "description": "Understanding Data Manipulation Language (DML) and its commands in SQL.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-2"
         },
         {
             "id": 3,
             "title": "Aggregate Functions",
             "description": "Exploring aggregate functions such as COUNT, SUM, AVG, MIN, and MAX in SQL.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-3"
         },
         {
             "id": 4,
             "title": "Relational Databases",
             "description": "Understanding relational database concepts, schemas, and relationships between tables.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-4"
         },
         {
             "id": 5,
             "title": "Subqueries",
             "description": "Working with subqueries in SQL for complex queries and data retrieval.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-5"
         },
         {
             "id": 6,
             "title": "Normalization, Cascades",
             "description": "Understanding database normalization and cascading actions for data integrity.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-6"
         },
         {
             "id": 7,
             "title": "Joins, Combinations",
             "description": "Exploring SQL joins and different ways to combine data from multiple tables.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-7"
         },
         {
             "id": 8,
             "title": "Views",
             "description": "Creating and managing SQL views to simplify complex queries and improve performance.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-8"
         },
         {
             "id": 9,
             "title": "Variables, Functions",
             "description": "Using variables and functions in SQL for dynamic query execution.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-9"
         },
         {
             "id": 10,
             "title": "Stored Procedures",
             "description": "Defining and executing stored procedures to automate database operations.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-10"
         },
         {
             "id": 11,
             "title": "Triggers",
             "description": "Understanding triggers and their use cases for automating database tasks.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-11"
         },
         {
             "id": 12,
             "title": "Transactions",
             "description": "Working with transactions in SQL to ensure data consistency and integrity.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/fire/fire-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/sql.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/sql/lesson-12"
         }
     ]

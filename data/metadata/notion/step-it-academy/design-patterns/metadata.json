@@ -4,63 +4,63 @@
             "id": 1,
             "title": "UML Introduction",
             "description": "Overview of Unified Modeling Language (UML) and its role in software design.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-1"
         },
         {
             "id": 2,
             "title": "Design Patterns, Factory, Abstract, Singleton Pattern",
             "description": "Introduction to design patterns, including Factory, Abstract Factory, and Singleton.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-2"
         },
         {
             "id": 3,
             "title": "Adapter, Builder, Prototype Pattern",
             "description": "Exploring Adapter, Builder, and Prototype design patterns for flexible system design.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-3"
         },
         {
             "id": 4,
             "title": "Proxy Pattern",
             "description": "Understanding the Proxy pattern and its use in object access control and performance optimization.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-4"
         },
         {
             "id": 5,
             "title": "Flyweight, Decorator, Bridge Pattern",
             "description": "Examining Flyweight, Decorator, and Bridge patterns for efficient and modular design.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-5"
         },
         {
             "id": 6,
             "title": "Facade Pattern",
             "description": "Simplifying complex systems using the Facade design pattern.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-6"
         },
         {
             "id": 7,
             "title": "Command, Memento Pattern",
             "description": "Exploring the Command pattern for encapsulating actions and the Memento pattern for state management.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-7"
         },
         {
             "id": 8,
             "title": "State, Iterator, Observer, Template Method Pattern",
             "description": "Understanding behavioral patterns: State, Iterator, Observer, and Template Method.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-8"
         },
         {
             "id": 9,
             "title": "Visitor Pattern, SOLID Principles",
             "description": "Exploring the Visitor pattern and the five SOLID principles for maintainable software design.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-5.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/design-patterns.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/design-patterns/lesson-9"
         }
     ]

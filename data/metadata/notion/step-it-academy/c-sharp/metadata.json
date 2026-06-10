@@ -4,119 +4,119 @@
             "id": 1,
             "title": "Introduction to C#",
             "description": "Fundamentals of C#, including syntax, structure, and key features.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-1"
         },
         {
             "id": 2,
             "title": "Functions and String",
             "description": "Working with functions and string manipulations in C#.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-2"
         },
         {
             "id": 3,
             "title": "Arrays",
             "description": "Understanding arrays, their operations, and memory management in C#.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-3"
         },
         {
             "id": 4,
             "title": "Struct, Classes",
             "description": "Differences between structs and classes in C#, including memory usage.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-4"
         },
         {
             "id": 5,
             "title": "Static Constructor, Partial Classes",
             "description": "Understanding static constructors and partial classes in C# applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-5"
         },
         {
             "id": 6,
             "title": "Exception Handling",
             "description": "Concepts of exception handling, try-catch blocks, and custom exceptions.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-6"
         },
         {
             "id": 7,
             "title": "Namespaces",
             "description": "Understanding namespaces for organizing code in large-scale applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-7"
         },
         {
             "id": 8,
             "title": "Indexer, Inheritance",
             "description": "Exploring indexers and inheritance concepts in C# object-oriented programming.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-8"
         },
         {
             "id": 9,
             "title": "Abstract Method, Virtual Method",
             "description": "Working with abstract and virtual methods in C# for flexible class hierarchies.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-9"
         },
         {
             "id": 10,
             "title": "Interfaces",
             "description": "Defining and implementing interfaces to enforce design contracts in C#.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-10"
         },
         {
             "id": 11,
             "title": "Standard Interfaces",
             "description": "Exploring standard interfaces and their applications in C# development.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-11"
         },
         {
             "id": 12,
             "title": "C# Delegates, Action, Functors, Predicates, Events",
             "description": "Understanding delegates, actions, functors, predicates, and event handling in C#.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-12"
         },
         {
             "id": 13,
             "title": "Anonymous Method, Lambda Expression",
             "description": "Exploring anonymous methods and lambda expressions for concise C# code.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-13"
         },
         {
             "id": 14,
             "title": "Generic, NonGeneric",
             "description": "Understanding generics and non-generic collections in C# programming.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-14"
         },
         {
             "id": 15,
             "title": "Stream",
             "description": "Working with streams for reading and writing data in C# applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-15"
         },
         {
             "id": 16,
             "title": "Serialization",
             "description": "Understanding serialization techniques for object persistence in C#.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-16"
         },
         {
             "id": 17,
             "title": "LINQ, Regex, Memory Management, Garbage Collector",
             "description": "Exploring LINQ, regular expressions, and memory management in C#.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/earth/earth-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/csharp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-sharp/lesson-17"
         }
     ]

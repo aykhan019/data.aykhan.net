@@ -4,84 +4,84 @@
             "id": 1,
             "title": "ADO.NET Introduction",
             "description": "Overview of ADO.NET, its architecture, and its role in .NET applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-1"
         },
         {
             "id": 2,
             "title": "Dataset",
             "description": "Understanding Datasets in ADO.NET and their usage in disconnected data access.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-2"
         },
         {
             "id": 3,
             "title": "Transactions",
             "description": "Concepts of database transactions and how ADO.NET handles them for data integrity.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-3"
         },
         {
             "id": 4,
             "title": "Cancellation Token, LINQ",
             "description": "Using Cancellation Tokens in ADO.NET operations and integrating LINQ for data manipulation.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-4"
         },
         {
             "id": 5,
             "title": "LINQ",
             "description": "Exploring LINQ in ADO.NET, including querying databases with LINQ-to-SQL and LINQ-to-Entities.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-5"
         },
         {
             "id": 6,
             "title": "Database First Model With Entity Framework",
             "description": "Implementing the Database First approach in Entity Framework within ADO.NET applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-6"
         },
         {
             "id": 7,
             "title": "Code First Model With Entity Framework",
             "description": "Using the Code First approach in Entity Framework to define and manage databases programmatically.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-7"
         },
         {
             "id": 8,
             "title": "Many To Many Relationships",
             "description": "Handling many-to-many relationships in ADO.NET with Entity Framework and database design considerations.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-8"
         },
         {
             "id": 9,
             "title": "FluentApi, IUnitOfWork",
             "description": "Using Fluent API in Entity Framework and implementing the Unit of Work pattern for data management.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-9"
         },
         {
             "id": 10,
             "title": "Dapper",
             "description": "Introduction to Dapper, a lightweight ORM for ADO.NET, and its advantages over Entity Framework.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-10"
         },
         {
             "id": 11,
             "title": "Dapper Relationships",
             "description": "Managing relationships in Dapper, including handling one-to-many and many-to-many mappings.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-11"
         },
         {
             "id": 12,
             "title": "Dapper Practise",
             "description": "Hands-on practice with Dapper, including query optimization and best practices.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-10.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/ado-net.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/ado-net/lesson-12"
         }
     ]

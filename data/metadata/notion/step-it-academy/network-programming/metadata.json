@@ -4,56 +4,56 @@
             "id": 1,
             "title": "Introduction to Network Programming",
             "description": "Fundamentals of network programming, including protocols, sockets, and communication.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-1"
         },
         {
             "id": 2,
             "title": "Tcp Listener",
             "description": "Understanding TCP listeners and handling incoming client connections in networking.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-2"
         },
         {
             "id": 3,
             "title": "UDP",
             "description": "Working with UDP for connectionless network communication and real-time data transfer.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-3"
         },
         {
             "id": 4,
             "title": "Monitor Live Project",
             "description": "Developing a live monitoring project to track network activity in real-time.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-4"
         },
         {
             "id": 5,
             "title": "Tic Tac Toe",
             "description": "Implementing a multiplayer Tic Tac Toe game using network programming concepts.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-5"
         },
         {
             "id": 6,
             "title": "Monolith Structure, As Server, UI Clients",
             "description": "Understanding monolithic architecture in networking, where the server handles multiple UI clients.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-6"
         },
         {
             "id": 7,
             "title": "Monolith Structure owns Server as Web API",
             "description": "Designing a monolithic structure where the server functions as a Web API for multiple clients.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-7"
         },
         {
             "id": 8,
             "title": "Swagger - Custom API",
             "description": "Creating and documenting custom APIs using Swagger for better developer experience.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/network-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/network-programming/lesson-8"
         }
     ]

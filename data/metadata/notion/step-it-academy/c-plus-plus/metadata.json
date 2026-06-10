@@ -4,133 +4,133 @@
             "id": 9,
             "title": "Fundamentals of C++ Strings",
             "description": "Understanding C++ strings, their operations, and standard library support.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-9"
         },
         {
             "id": 10,
             "title": "Initializer Lists and Dynamic Data Structures",
             "description": "Working with initializer lists and exploring dynamic data structures in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-10"
         },
         {
             "id": 11,
             "title": "Dynamic Data Structures in C++",
             "description": "Implementation and management of dynamic data structures in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-11"
         },
         {
             "id": 12,
             "title": "Double Linked List in C++",
             "description": "Concepts, implementation, and manipulation of doubly linked lists in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-12"
         },
         {
             "id": 13,
             "title": "Binary Trees in C++",
             "description": "Introduction to binary trees, traversal techniques, and applications in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-13"
         },
         {
             "id": 14,
             "title": "Object Relationships, Nested Classes, and Inheritance",
             "description": "Exploring object relationships, nested classes, and inheritance principles in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-14"
         },
         {
             "id": 15,
             "title": "Inheritance in C++",
             "description": "Understanding different types of inheritance and their implementation in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-15"
         },
         {
             "id": 16,
             "title": "Polymorphism in C++",
             "description": "Concepts of polymorphism, virtual functions, and method overriding in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-16"
         },
         {
             "id": 17,
             "title": "Abstraction in C++",
             "description": "Introduction to abstraction, abstract classes, and interfaces in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-17"
         },
         {
             "id": 18,
             "title": "Introduction to Exception Handling",
             "description": "Fundamentals of exception handling and error management in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-18"
         },
         {
             "id": 19,
             "title": "Exception and Classes in C++",
             "description": "Using exception classes to handle errors efficiently in C++ applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-19"
         },
         {
             "id": 20,
             "title": "Type Identification, Polymorphism, Mutable, and Casting",
             "description": "Understanding type identification, polymorphism, mutability, and casting in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-20"
         },
         {
             "id": 21,
             "title": "Streams and String Streams",
             "description": "Working with streams and string streams for input and output in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-21"
         },
         {
             "id": 22,
             "title": "Working with Files in C++",
             "description": "File handling concepts, reading, and writing files in C++ applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-22"
         },
         {
             "id": 23,
             "title": "Smart Pointers",
             "description": "Using smart pointers to manage memory efficiently in C++ applications.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-23"
         },
         {
             "id": 24,
             "title": "Standard Template Library (STL) in C++",
             "description": "Introduction to STL, its components, and their usage in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-24"
         },
         {
             "id": 25,
             "title": "The Standard Template Library (STL)",
             "description": "Deep dive into STL algorithms, containers, and iterators in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-25"
         },
         {
             "id": 26,
             "title": "Functors and Algorithms",
             "description": "Understanding functors and their role in STL algorithms in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-26"
         },
         {
             "id": 27,
             "title": "Understanding Namespaces",
             "description": "Working with namespaces to organize and manage code effectively in C++.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/cpp.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/c-plus-plus/lesson-27"
         }
     ]

@@ -4,70 +4,70 @@
             "id": 1,
             "title": "Introduction to Web Programming",
             "description": "Overview of web programming, its technologies, and fundamental concepts.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-1"
         },
         {
             "id": 2,
             "title": "CSS",
             "description": "Understanding CSS, its properties, and styling elements in web development.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-2"
         },
         {
             "id": 3,
             "title": "HTML5",
             "description": "Introduction to HTML5, its new features, and semantic structure for web pages.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-3"
         },
         {
             "id": 4,
             "title": "Web Templates",
             "description": "Exploring web templates and their role in creating reusable design structures.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-4"
         },
         {
             "id": 5,
             "title": "CSS Flex Elements",
             "description": "Understanding CSS Flexbox and its properties for responsive web layouts.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-5"
         },
         {
             "id": 6,
             "title": "Web Template, Grid",
             "description": "Implementing web templates and using CSS Grid for structured layouts.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-6"
         },
         {
             "id": 7,
             "title": "Form Elements",
             "description": "Working with form elements in HTML and CSS for user input collection.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-7"
         },
         {
             "id": 8,
             "title": "Bootstrap",
             "description": "Introduction to Bootstrap and its components for rapid web development.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-8"
         },
         {
             "id": 9,
             "title": "Template with Bootstrap",
             "description": "Building a responsive web template using Bootstrap framework.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-9"
         },
         {
             "id": 10,
             "title": "SASS, SCSS",
             "description": "Exploring SASS and SCSS for efficient styling and modular CSS.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/water/water-7.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/web-programming.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/web-programming/lesson-10"
         }
     ]

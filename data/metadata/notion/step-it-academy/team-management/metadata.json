@@ -4,28 +4,28 @@
             "id": 1,
             "title": "Introduction to Project Management Methods",
             "description": "Overview of project management methodologies and their role in effective team collaboration.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/team-management.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/team-management/lesson-1"
         },
         {
             "id": 2,
             "title": "Documentation, Project Risks",
             "description": "Importance of documentation and risk assessment in project management.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/team-management.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/team-management/lesson-2"
         },
         {
             "id": 3,
             "title": "Agile",
             "description": "Understanding Agile methodology and its impact on project workflow and team collaboration.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/team-management.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/team-management/lesson-3"
         },
         {
             "id": 4,
             "title": "Product App Management",
             "description": "Strategies for managing product applications, team coordination, and development cycles.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/notion/with-icons/sand/sand-9.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/step-it-academy/team-management.png",
             "linkUrl": "https://aykhan.net/notion/step-it-academy/team-management/lesson-4"
         }
     ]
