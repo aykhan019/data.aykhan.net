@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-10T22:07:20Z",
+  "generatedAt": "2026-06-10T22:25:43Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 61,
   "endpoints": [
@@ -152,25 +152,25 @@
       "name": "ado-net-metadata",
       "path": "data/metadata/notion/step-it-academy/ado-net/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/ado-net/metadata.json",
-      "sizeBytes": 4710
+      "sizeBytes": 4626
     },
     {
       "name": "asp-net-metadata",
       "path": "data/metadata/notion/step-it-academy/asp-net/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/asp-net/metadata.json",
-      "sizeBytes": 11525
+      "sizeBytes": 11255
     },
     {
       "name": "c-plus-plus-metadata",
       "path": "data/metadata/notion/step-it-academy/c-plus-plus/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/c-plus-plus/metadata.json",
-      "sizeBytes": 7393
+      "sizeBytes": 7165
     },
     {
       "name": "c-sharp-metadata",
       "path": "data/metadata/notion/step-it-academy/c-sharp/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/c-sharp/metadata.json",
-      "sizeBytes": 6416
+      "sizeBytes": 6246
     },
     {
       "name": "design-patterns-metadata",
@@ -182,7 +182,7 @@
       "name": "java-script-metadata",
       "path": "data/metadata/notion/step-it-academy/java-script/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/java-script/metadata.json",
-      "sizeBytes": 4994
+      "sizeBytes": 4968
     },
     {
       "name": "step-it-academy-metadata",
@@ -194,31 +194,31 @@
       "name": "network-programming-metadata",
       "path": "data/metadata/notion/step-it-academy/network-programming/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/network-programming/metadata.json",
-      "sizeBytes": 3241
+      "sizeBytes": 3289
     },
     {
       "name": "react-metadata",
       "path": "data/metadata/notion/step-it-academy/react/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/react/metadata.json",
-      "sizeBytes": 5983
+      "sizeBytes": 5823
     },
     {
       "name": "sql-metadata",
       "path": "data/metadata/notion/step-it-academy/sql/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/sql/metadata.json",
-      "sizeBytes": 4450
+      "sizeBytes": 4318
     },
     {
       "name": "system-programming-metadata",
       "path": "data/metadata/notion/step-it-academy/system-programming/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/system-programming/metadata.json",
-      "sizeBytes": 2840
+      "sizeBytes": 2875
     },
     {
       "name": "team-management-metadata",
       "path": "data/metadata/notion/step-it-academy/team-management/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/team-management/metadata.json",
-      "sizeBytes": 1627
+      "sizeBytes": 1635
     },
     {
       "name": "web-programming-metadata",
@@ -230,13 +230,13 @@
       "name": "windows-forms-metadata",
       "path": "data/metadata/notion/step-it-academy/windows-forms/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/windows-forms/metadata.json",
-      "sizeBytes": 2751
+      "sizeBytes": 2737
     },
     {
       "name": "wpf-metadata",
       "path": "data/metadata/notion/step-it-academy/wpf/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/step-it-academy/wpf/metadata.json",
-      "sizeBytes": 4381
+      "sizeBytes": 4261
     },
     {
       "name": "metadata-2",
