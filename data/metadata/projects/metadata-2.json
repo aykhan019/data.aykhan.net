@@ -11,21 +11,21 @@
             "id": 2,
             "title": "CinemaKhan",
             "description": "A full-featured cinema management system allowing users to book tickets and manage cinema schedules.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/cinemakhan-2.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/cinemakhan-2.png",
             "linkUrl": "https://github.com/aykhan019/CinemaKhan"
         },
         {
             "id": 3,
             "title": "Uno Card Game Simulation",
             "description": "A simulation of the classic Uno card game with a focus on game mechanics and user interaction.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/uno-2.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/uno-2.png",
             "linkUrl": "https://github.com/aykhan019/UNO"
         },
         {
             "id": 4,
             "title": "Battleship Game in C++",
             "description": "A classic Battleship game implemented in C++, featuring a two-player mode.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/battleship-2.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/battleship-2.png",
             "linkUrl": "https://github.com/aykhan019/Battleship_Cpp"
         },
         {
@@ -39,28 +39,28 @@
             "id": 6,
             "title": "C-Sharp Exam Project: Boss.Az",
             "description": "A console-based application demonstrating concurrency management and data processing in C#.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/boss-2.jpeg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/boss-2.png",
             "linkUrl": "https://github.com/aykhan019/Cs_ExamProject"
         },
         {
             "id": 7,
             "title": "Notion Quiz Bot",
             "description": "A web application that generates quizzes from Notion data using AI, with a React front-end and Flask back-end.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/quizbot-2.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/quizbot-2.png",
             "linkUrl": "https://github.com/aykhan019/NotionQuizBot"
         },
         {
             "id": 8,
             "title": "C++ OOP Final Project: Restaurant Management System",
             "description": "A C++ application demonstrating OOP concepts with a focus on restaurant management functionalities.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/restaurant-2.jpeg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/restaurant-2.png",
             "linkUrl": "https://github.com/aykhan019/FinalProject_Cpp_OOP"
         },
         {
             "id": 9,
             "title": "CinemaPlus - Diploma Project",
             "description": "A cinema ticket booking system with features for browsing movies, selecting seats, and managing bookings.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/cinemaplus-2.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/cinemaplus-2.png",
             "linkUrl": "https://github.com/aykhan019/CinemaPlus-Project"
         },
         {
@@ -74,7 +74,7 @@
             "id": 11,
             "title": "Dictionary App",
             "description": "A WPF application for looking up word definitions with a user-friendly interface.",
-            "imageUrl": "https://media.aykhan.net/thumbnails/projects/translate-2.jpg",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/translate-2.png",
             "linkUrl": "https://github.com/aykhan019/DictionaryApp"
         },
         {
