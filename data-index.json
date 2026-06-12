@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-12T21:08:57Z",
+  "generatedAt": "2026-06-12T21:49:38Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 61,
   "endpoints": [
@@ -122,7 +122,7 @@
       "name": "data-analysis-with-python-metadata",
       "path": "data/metadata/notion/coursera/ibm-data-science/data-analysis-with-python/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/notion/coursera/ibm-data-science/data-analysis-with-python/metadata.json",
-      "sizeBytes": 1936
+      "sizeBytes": 1906
     },
     {
       "name": "ibm-data-science-metadata",
