@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-06-10T23:29:42Z",
+  "generatedAt": "2026-06-12T21:07:34Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 61,
   "endpoints": [
@@ -242,7 +242,7 @@
       "name": "metadata-2",
       "path": "data/metadata/projects/metadata-2.json",
       "url": "https://data.aykhan.net/data/metadata/projects/metadata-2.json",
-      "sizeBytes": 4870
+      "sizeBytes": 4845
     },
     {
       "name": "projects-metadata",
