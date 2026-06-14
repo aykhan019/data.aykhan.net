@@ -1,76 +1,100 @@
-
-# data.aykhan.net - Static Data API
-
 <div align="center">
-  <img src="https://media.aykhan.net/assets/logos/aykhannet.ico" alt="Aykhan.net Logo">
+
+<img src="https://media.aykhan.net/assets/logos/aykhannet.ico" alt="aykhan.net logo" width="120" />
+
+# data.aykhan.net
+
+**A static, read‑only JSON "API" for the aykhan.net ecosystem — versioned data files served straight from GitHub Pages, with a whitelist‑generated endpoint index.**
+
+[![Live](https://img.shields.io/badge/live-data.aykhan.net-235aa6?style=flat-square)](https://data.aykhan.net)
+[![Index](https://img.shields.io/badge/index-data--index.json-1c1d25?style=flat-square)](https://data.aykhan.net/data-index.json)
+[![Deploy](https://img.shields.io/badge/hosting-GitHub%20Pages-222?style=flat-square&logo=github)](https://pages.github.com)
+[![Generator](https://img.shields.io/badge/generator-Python%203-f06449?style=flat-square&logo=python&logoColor=white)](./generate_index.py)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
+
 </div>
 
-Welcome to my GitHub repository "data.aykhan.net"! This repository serves as an API for static data, providing essential resources for various projects and tasks. Here, you'll find structured data and endpoints to access it.
+---
 
-## API Usage
+## Overview
 
-You can access the static data through this API by making HTTP requests to specific endpoints. Here are some of the available endpoints:
+`data.aykhan.net` is a **static JSON API**: a collection of structured `.json` files served
+directly over HTTPS from GitHub Pages, with no backend, database, or server runtime. Each
+file is an endpoint, and a generated index describes the full surface — consumed by the
+[Terminal Gateway](https://aykhan.net/terminal).
 
-- `https://data.aykhan.net/data/general/movies.json`: Get information about movies.
-- `https://data.aykhan.net/data/general/users.json`: Retrieve user details.
-- `https://data.aykhan.net/data/general/theatres.json`: Access event information.
+It is one of three independent, GitHub Pages–hosted repositories:
 
-Feel free to explore and utilize this data for your projects.
+| Domain | Role |
+| --- | --- |
+| [aykhan.net](https://aykhan.net) | E‑portfolio + Terminal Gateway |
+| [media.aykhan.net](https://media.aykhan.net) | Public media host + `media-index.json` |
+| **[data.aykhan.net](https://data.aykhan.net)** | **Static JSON "API" + `data-index.json`** |
 
-## Public data index (`data-index.json`)
+## Using the API
 
-`generate_index.py` produces two public, read-only metadata files consumed by the
-[Aykhan Terminal Gateway](https://aykhan.net/terminal):
-
-- **`data-index.json`** — every indexed JSON endpoint (`name`, `path`, `url`,
-  `sizeBytes`) and `totalEndpoints`.
-- **`build-report.json`** — `service`, `generatedAt`, `totalEndpoints`,
-  `indexedFolders`, `skippedFolders`, and `notes`.
-
-Run it from the repo root (it also refreshes the browsable `index.html` listings):
+Every endpoint is a plain HTTP `GET` against a static URL:
 
 ```
-python generate_index.py
+https://data.aykhan.net/data/general/movies.json
+https://data.aykhan.net/data/general/users.json
+https://data.aykhan.net/data/general/theatres.json
 ```
 
-### Which endpoints are indexed
-
-Indexing is **whitelist-based**. Only these top-level folders are scanned:
-
-```
-data · public
+```js
+const movies = await fetch("https://data.aykhan.net/data/general/movies.json")
+  .then((r) => r.json());
 ```
 
-…and only `.json` files within them are indexed.
+Browse the full, current list of endpoints in
+[`data-index.json`](https://data.aykhan.net/data-index.json).
 
-### Security note — public metadata only
+## The public index
 
-The index publishes only **metadata** (`name`/`path`/`url`/`sizeBytes`); it never
-inlines file contents. It **excludes** hidden/dotfiles, `.env`, secrets, and
-anything under `private`/`drafts`/`secrets`/`node_modules`. The whitelist is
-opt-in, so a new folder is *not* indexed until it is explicitly added. All listed
-endpoints are already public static files (the sample datasets such as
-`users.json` contain synthetic placeholder data, not real personal information).
+[`generate_index.py`](./generate_index.py) produces two public, read‑only metadata files and
+refreshes the browsable `index.html` listings:
 
-## Website
+| File | Contents |
+| --- | --- |
+| **`data-index.json`** | Every indexed endpoint — `name`, `path`, `url`, `sizeBytes` — plus `totalEndpoints`. |
+| **`build-report.json`** | `service`, `generatedAt`, `totalEndpoints`, `indexedFolders`, `skippedFolders`, `notes`. |
 
-While this repository primarily serves as a data API, you can visit [aykhan.net](https://aykhan.net) to explore my portfolio and interactive web development projects.
+```bash
+python generate_index.py    # run from the repo root; no third-party dependencies
+```
 
-## Contribution
+### What gets indexed
 
-I welcome contributions and feedback from the developer community. If you find any issues, have suggestions, or wish to contribute to the API, feel free to:
+Indexing is **whitelist‑based** — a folder is invisible to the index until it is explicitly
+allowed.
 
-- Open an issue
-- Create a pull request
+- **Scanned top‑level folders:** `data` · `public`
+- **Allowed file type:** `.json` only
 
-Your contributions are highly appreciated as they help improve the quality of this repository.
+## Security model — public metadata only
 
-## Technologies Used
+This repository is **read‑only and public by design**. The index publishes **metadata
+only** (`name` / `path` / `url` / `sizeBytes`); it never inlines file contents. The
+generator excludes hidden/dotfiles, `.env`, secrets, and anything under
+`private` / `drafts` / `secrets` / `node_modules`.
 
-- JSON: A lightweight data interchange format used for structuring data.
+There are no tokens, API keys, secrets, uploads, or authentication anywhere in this system —
+every published file is intended to be public.
+
+## Project structure
+
+```
+data.aykhan.net/
+├── data/                   # JSON endpoints (e.g. data/general/movies.json)
+├── public/                 # Additional public JSON
+├── generate_index.py       # Builds data-index.json + build-report.json + index.html
+├── test_generate_index.py  # Generator tests
+├── data-index.json         # Generated — public endpoint index
+├── build-report.json       # Generated — build summary
+├── index.html              # Generated — browsable listing
+└── CNAME                   # data.aykhan.net
+```
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use the code, modify it, and distribute it under the terms of the license.
-
-Let's connect and collaborate!
+Released under the [MIT License](./LICENSE) © 2023 Aykhan Ahmadzada.
