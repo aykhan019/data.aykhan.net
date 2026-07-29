@@ -90,6 +90,14 @@
             "description": "A Python-based simulation of a gas station management system, featuring inventory management and report generation.",
             "imageUrl": "https://media.aykhan.net/thumbnails/projects/gas-2.png",
             "linkUrl": "https://github.com/aykhan019/Python_ExamProject"
+        },
+        {
+            "id": 14,
+            "title": "KWES - Kapital Web Exposure Scanner",
+            "description": "A configuration-driven orchestrator running seven security CLIs against assets an allowlist explicitly authorizes. Finds candidates, not vulnerabilities.",
+            "imageUrl": "https://aykhan.net/projects/kwes/img/kwes-cover.svg",
+            "linkUrl": "https://aykhan.net/projects/kwes/",
+            "btnText": "Read the docs"
         }
     ]
 }
