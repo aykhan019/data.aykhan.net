@@ -4,9 +4,8 @@
       "id": 1,
       "title": "KWES - Kapital Web Exposure Scanner",
       "description": "A configuration-driven orchestrator running seven security CLIs against assets an allowlist explicitly authorizes. Finds candidates, not vulnerabilities.",
-      "imageUrl": "https://aykhan.net/projects/kwes/img/kwes-cover.svg",
-      "linkUrl": "https://aykhan.net/projects/kwes/",
-      "btnText": "Read the docs"
-    }
+      "imageUrl": "https://media.aykhan.net/thumbnails/projects/kwes.png",
+      "linkUrl": "https://aykhan.net/projects/kwes/"
+      }
   ]
 }
