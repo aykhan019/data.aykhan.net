@@ -97,6 +97,13 @@
             "description": "A configuration-driven orchestrator running seven security CLIs against assets an allowlist explicitly authorizes. Finds candidates, not vulnerabilities.",
             "imageUrl": "https://media.aykhan.net/thumbnails/projects/kwes.png",
             "linkUrl": "https://aykhan.net/projects/kwes/"
+        },
+        {
+            "id": 15,
+            "title": "KC2: Kapital C2",
+            "description": "A self-contained Node.js lab that reproduces npm lifecycle-script code execution end to end — a trojanized demo package, an outbound-only HTTP task broker, and an operator console — for security education and detection engineering.",
+            "imageUrl": "https://media.aykhan.net/thumbnails/projects/kc2.png",
+            "linkUrl": "https://aykhan.net/projects/kc2/"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
   "service": "data",
-  "generatedAt": "2026-07-29T11:00:24Z",
+  "generatedAt": "2026-08-02T17:22:40Z",
   "baseUrl": "https://data.aykhan.net",
   "totalEndpoints": 62,
   "endpoints": [
@@ -74,7 +74,7 @@
       "name": "cyber-security-metadata",
       "path": "data/metadata/cyber-security/metadata.json",
       "url": "https://data.aykhan.net/data/metadata/cyber-security/metadata.json",
-      "sizeBytes": 418
+      "sizeBytes": 868
     },
     {
       "name": "koc-university-metadata",
@@ -248,7 +248,7 @@
       "name": "metadata-2",
       "path": "data/metadata/projects/metadata-2.json",
       "url": "https://data.aykhan.net/data/metadata/projects/metadata-2.json",
-      "sizeBytes": 5272
+      "sizeBytes": 5759
     },
     {
       "name": "projects-metadata",
